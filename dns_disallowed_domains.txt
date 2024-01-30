@@ -1,5 +1,3 @@
-crashlytics.com
-footprintdns.com
 2p66nmmycsj3.statuspage.io
 a.adtng.com
 a1887.dscq.akamai.net
@@ -47,6 +45,7 @@ config.edge.skype.com
 connect.facebook.com
 connect.facebook.net
 content-signature-2.cdn.mozilla.net
+crashlytics.com
 crl.rootca1.amazontrust.com
 cse.google.com
 cxcs.microsoft.net
