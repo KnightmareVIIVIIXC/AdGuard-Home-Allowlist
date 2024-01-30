@@ -1,5 +1,5 @@
-*.crashlytics.com
-*.footprintdns.com
+crashlytics.com
+footprintdns.com
 2p66nmmycsj3.statuspage.io
 a.adtng.com
 a1887.dscq.akamai.net
@@ -85,7 +85,6 @@ google-analytics.com
 googleads.g.doubleclick.net
 googlesyndication.com
 googletagmanager.com
-gpu.me
 graph.facebook.com
 gstaticadssl.l.google.com
 hangouts.google.com
@@ -127,7 +126,6 @@ optimizationguide-pa.googleapis.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pay.sandbox.google.com
-pbs.twimg.com
 people-pa.googleapis.com
 pinpoint.us-east-1.amazonaws.com
 pki-goog.l.google.com
@@ -168,7 +166,6 @@ telemetry.acronis.com
 telemetry.api.swiftkey.com
 telemetry.malwarebytes.com
 tpc.googlesyndication.com
-twitter.com
 ups.analytics.yahoo.com
 usenetjunction.com
 v10.events.data.microsoft.com
