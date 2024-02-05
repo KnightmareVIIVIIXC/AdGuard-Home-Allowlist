@@ -1,5 +1,5 @@
-*.crashlytics.com
-*.footprintdns.com
+||crashlytics.com^
+||footprintdns.com^
 ||2p66nmmycsj3.statuspage.io^
 ||a.adtng.com^
 ||a1887.dscq.akamai.net^
@@ -65,11 +65,9 @@ analytics-collector-*.amazonaws.com
 ||fastfile.cc^
 ||fcm.googleapis.com^
 ||feeds.neosmart.net^
-||firebase-settings.crashlytics.com^
 ||firebaseinstallations.googleapis.com^
 ||firefox.settings.services.mozilla.com^
 ||flatanalytics.com^
-||footprintdns.com^
 ||footprints-pa.googleapis.com^
 ||g.tenor.com^
 ||gcdn.2mdn.net^
@@ -90,7 +88,7 @@ analytics-collector-*.amazonaws.com
 ||i.postimg.cc^
 ||i.t.net.ar^
 ||id.server^
-image*.hotmovies.com
+||hotmovies.com^
 ||img-hm.vodadult.com^
 ||inputsuggestions.msdxcdn.microsoft.com^
 ||insights-collector.gog.com^
@@ -133,7 +131,6 @@ image*.hotmovies.com
 r5*.gvt1.com
 ||ra.majorgeeks.com^
 ||referrer.disqus.com^
-||reports.crashlytics.com^
 ||rum14.perf.linkedin.com^
 ||rum8.perf.linkedin.com^
 ||s.amazon-adsystem.com^
