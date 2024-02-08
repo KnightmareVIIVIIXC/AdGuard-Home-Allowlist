@@ -1,5 +1,5 @@
-||crashlytics.com^
-||footprintdns.com^
+analytics-collector-*.amazonaws.com
+r5*.gvt1.com
 ||2p66nmmycsj3.statuspage.io^
 ||a.adtng.com^
 ||a1887.dscq.akamai.net^
@@ -8,7 +8,6 @@
 ||adservice.google.com^
 ||aefd.nelreports.net^
 ||alt6-mtalk.google.com^
-analytics-collector-*.amazonaws.com
 ||analytics-static.ugc.bazaarvoice.com^
 ||android.apis.google.com^
 ||api.amplitude.com^
@@ -44,6 +43,7 @@ analytics-collector-*.amazonaws.com
 ||config.edge.skype.com^
 ||connect.facebook.net^
 ||content-signature-2.cdn.mozilla.net^
+||crashlytics.com^
 ||crl.rootca1.amazontrust.com^
 ||cse.google.com^
 ||cxcs.microsoft.net^
@@ -68,6 +68,7 @@ analytics-collector-*.amazonaws.com
 ||firebaseinstallations.googleapis.com^
 ||firefox.settings.services.mozilla.com^
 ||flatanalytics.com^
+||footprintdns.com^
 ||footprints-pa.googleapis.com^
 ||g.tenor.com^
 ||gcdn.2mdn.net^
@@ -85,10 +86,10 @@ analytics-collector-*.amazonaws.com
 ||horizon-static-np.s3.amazonaws.com^
 ||hosted-by.lelux.site^
 ||hostname.bind^
+||hotmovies.com^
 ||i.postimg.cc^
 ||i.t.net.ar^
 ||id.server^
-||hotmovies.com^
 ||img-hm.vodadult.com^
 ||inputsuggestions.msdxcdn.microsoft.com^
 ||insights-collector.gog.com^
@@ -128,7 +129,6 @@ analytics-collector-*.amazonaws.com
 ||prod.detectportal.prod.cloudops.mozgcp.net^
 ||pscoretestdata.blob.core.windows.net^
 ||r.bing.com^
-r5*.gvt1.com
 ||ra.majorgeeks.com^
 ||referrer.disqus.com^
 ||rum14.perf.linkedin.com^
