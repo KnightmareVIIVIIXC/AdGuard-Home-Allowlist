@@ -37,8 +37,6 @@ r5*.gvt1.com
 ||arc.msn.com^
 ||assets.adobedtm.com^
 ||auto.search.msn.com^
-||block-test-amp.developerdan.com^
-||block-test.developerdan.com^
 ||c.googlesyndication.com^
 ||cdn-social.janrain.com^
 ||cdn.fastclick.net^
