@@ -10,7 +10,6 @@ r5*.gvt1.com
 ||2mdn.net^
 ||acquisition-tracker.wix.com^
 ||ad.youtube.com^
-||ade.googlesyndication.com^
 ||ads.imeem.com^
 ||ads.youtube.com^
 ||adservice.google^
@@ -37,7 +36,6 @@ r5*.gvt1.com
 ||arc.msn.com^
 ||assets.adobedtm.com^
 ||auto.search.msn.com^
-||c.googlesyndication.com^
 ||cdn-social.janrain.com^
 ||cdn.fastclick.net^
 ||clients1.google.com^
@@ -63,21 +61,15 @@ r5*.gvt1.com
 ||nest.com^
 ||ocsp.comodoca.com^
 ||page.link^
-||pagead.googlesyndication.com^
-||pagead1.googlesyndication.com^
-||pagead2.googlesyndication.com^
-||pagead46.googlesyndication.com^
 ||pixel.adsafeprotected.com^
 ||pixel.moatads.com^
 ||redirector.googlevideo.com^
 ||rtd.tubemogul.com^
 ||s.ytimg.com^
 ||secure-ds.serving-sys.com^
-||ssl.google-analytics.com^
 ||stat.livejournal.com^
 ||teams.microsoft.com^
 ||tiltbrush.com^
-||tpc.googlesyndication.com^
 ||version.bind^
 ||watchdog.goodbyeads.youtube^
 ||watchdog.goodbyeads^
@@ -204,7 +196,6 @@ image*.hotmovies.com
 ||ocsp.rootg2.amazontrust.com^
 ||optimizationguide-pa.googleapis.com^
 ||pay.sandbox.google.com^
-||pbs.twimg.com^
 ||people-pa.googleapis.com^
 ||pinpoint.us-east-1.amazonaws.com^
 ||pki-goog.l.google.com^
@@ -239,8 +230,6 @@ image*.hotmovies.com
 ||telemetry.acronis.com^
 ||telemetry.api.swiftkey.com^
 ||telemetry.malwarebytes.com^
-||twitter.com^
-||ups.analytics.yahoo.com^
 ||usenetjunction.com^
 ||v10.events.data.microsoft.com^
 ||variations.brave.com^
