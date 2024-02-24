@@ -4,6 +4,7 @@
 ||myspace.*^
 ||*palo*alto*.*^
 ||r*.youtube-nocookie.com^
+||r5*.gvt1.com^
 ||webengage.co*^
 ||yahoo.*^
 ||2mdn.net^
@@ -62,7 +63,6 @@
 ||page.link^
 ||pixel.adsafeprotected.com^
 ||pixel.moatads.com^
-||r5*.gvt1.com^
 ||redirector.googlevideo.com^
 ||rtd.tubemogul.com^
 ||s.ytimg.com^
