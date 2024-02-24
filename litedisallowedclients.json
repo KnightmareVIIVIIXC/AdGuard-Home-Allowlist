@@ -1,7 +1,0 @@
-{
-	"name": "Lite Disallowed Clients",
-	"sources": [{
-			"source": "https://malware-filter.gitlab.io/malware-filter/botnet-filter.txt"
-		}],
-	"transformations": ["Deduplicate", "RemoveComments"]
-}
