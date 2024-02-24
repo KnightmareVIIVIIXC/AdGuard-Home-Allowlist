@@ -2,7 +2,6 @@
 ||bard.google.*^
 ||bing.*^
 ||myspace.*^
-||*palo*alto*.*^
 ||r*.youtube-nocookie.com^
 ||r5*.gvt1.com^
 ||webengage.co*^
