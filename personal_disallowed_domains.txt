@@ -1,5 +1,4 @@
-analytics-collector-*.amazonaws.com
-r5*.gvt1.com
+||analytics-collector-*.amazonaws.com^
 ||bard.google.*^
 ||bing.*^
 ||myspace.*^
@@ -63,6 +62,7 @@ r5*.gvt1.com
 ||page.link^
 ||pixel.adsafeprotected.com^
 ||pixel.moatads.com^
+||r5*.gvt1.com^
 ||redirector.googlevideo.com^
 ||rtd.tubemogul.com^
 ||s.ytimg.com^
