@@ -1,4 +1,5 @@
 ||analytics-collector-*.amazonaws.com^
+||bard.google.*^
 ||bing.*^
 ||myspace.*^
 ||r*.youtube-nocookie.com^
