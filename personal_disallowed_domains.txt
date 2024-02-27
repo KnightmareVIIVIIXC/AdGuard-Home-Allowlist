@@ -1,6 +1,5 @@
 ||analytics-collector-*.amazonaws.com^
 ||bard.google.*^
-||bing.*^
 ||myspace.*^
 ||r*.youtube-nocookie.com^
 ||r5*.gvt1.com^
@@ -62,6 +61,7 @@
 ||page.link^
 ||pixel.adsafeprotected.com^
 ||pixel.moatads.com^
+||r.bing.com^
 ||redirector.googlevideo.com^
 ||rtd.tubemogul.com^
 ||s.ytimg.com^
