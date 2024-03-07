@@ -301,5 +301,3 @@ image*.hotmovies.com
 ||yt.moatads.com^
 ||yts.moatads.com^
 ||yyz10s14-in-f14.1e100.net^
-||test1.com^
-||test2.com^
