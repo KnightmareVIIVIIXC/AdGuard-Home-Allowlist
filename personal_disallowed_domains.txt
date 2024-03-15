@@ -92,6 +92,7 @@ image*.hotmovies.com
 ||coral.ai^
 ||creative.cc-dt.com^
 ||crl.rootca1.amazontrust.com^
+||crpdt.livejasmin.com^
 ||cse.google.com^
 ||cxcs.microsoft.net^
 ||deff.nelreports.net^
@@ -182,6 +183,7 @@ image*.hotmovies.com
 ||mail-ads.google.com^
 ||majorgeekscom.disqus.com^
 ||manifest.googlevideo.com^
+||mcgthfrqrs95vdbzkhtchf5fc0g4.device.marketingcloudapis.com^
 ||media.fastclick.net^
 ||metrics.ubuntu.com^
 ||mobile.events.data.microsoft.com^
