@@ -35,7 +35,6 @@ image*.hotmovies.com
 ||allotalk.com^
 ||alt6-mtalk.google.com^
 ||amp-assets.cinemablend.com^
-||amp-reddit-com.cdn.ampproject.org^
 ||amp.akamaized.net^
 ||amp.businessinsider.com^
 ||amp.cinemablend.com^
@@ -43,7 +42,6 @@ image*.hotmovies.com
 ||amp.kirklands.com^
 ||amp.knoxnews.com^
 ||amp.newsobserver.com^
-||amp.reddit.com^
 ||amp.si.com^
 ||amp.spot.im^
 ||amp.tennessean.com^
@@ -73,7 +71,6 @@ image*.hotmovies.com
 ||azwancan.trafficmanager.net^
 ||backend.twitch-extension.playtotv.com^
 ||badoo.com^
-||bard.google.*^
 ||bongacams7.com^
 ||browser.events.data.msn.com^
 ||bumble.com^
@@ -97,8 +94,6 @@ image*.hotmovies.com
 ||collector.github.com^
 ||collector.githubapp.com^
 ||config.edge.skype.com^
-||connect.facebook.net.edgekey.net^
-||connect.facebook.net^
 ||content-signature-2.cdn.mozilla.net^
 ||cookiex.ngd.yahoo.com^
 ||coral.ai^
@@ -122,22 +117,6 @@ image*.hotmovies.com
 ||doubleclick.de^
 ||doubleclick.net^
 ||dualstack.pinterest.map.fastly.net^
-||e1.whatsapp.net^
-||e2.whatsapp.net^
-||e3.whatsapp.net^
-||e4.whatsapp.net^
-||e5.whatsapp.net^
-||e6.whatsapp.net^
-||e7.whatsapp.net^
-||e8.whatsapp.net^
-||e9.whatsapp.net^
-||e10.whatsapp.net^
-||e11.whatsapp.net^
-||e12.whatsapp.net^
-||e13.whatsapp.net^
-||e14.whatsapp.net^
-||e15.whatsapp.net^
-||e16.whatsapp.net^
 ||e673.dscx.akamaiedge.net^
 ||ea.twimg.com^
 ||easeusinfo.us-east-1.log.aliyuncs.com^
@@ -240,7 +219,6 @@ image*.hotmovies.com
 ||graph.whatsapp.net^
 ||gstaticadssl.l.google.com^
 ||gu.twimg.com^
-||h-ct-m-fbx.fbsbx.com.online-metrix.net^
 ||hangouts.google.com^
 ||happn.com^
 ||hca.twimg.com^
@@ -285,7 +263,6 @@ image*.hotmovies.com
 ||linkedin.com^
 ||listed.to^
 ||lobi.co^
-||logger.instagram.com^
 ||m.me^
 ||ma0.twimg.com^
 ||ma1.twimg.com^
@@ -388,7 +365,6 @@ image*.hotmovies.com
 ||musical.ly^
 ||musically.ly^
 ||myphonenumbers-pa.googleapis.com^
-||myspace.*^
 ||myspace.com^
 ||myspacecdn.com^
 ||nest.com^
@@ -434,7 +410,6 @@ image*.hotmovies.com
 ||prod.balrog.prod.cloudops.mozgcp.net^
 ||prod.detectportal.prod.cloudops.mozgcp.net^
 ||prod.pinterest.global.map.fastly.net^
-||profile.ak.facebook.com.edgesuite.net^
 ||pscoretestdata.blob.core.windows.net^
 ||r5*.gvt1.com^
 ||r*.youtube-nocookie.com^
@@ -455,9 +430,6 @@ image*.hotmovies.com
 ||redirector.googlevideo.com^
 ||referrer.disqus.com^
 ||rtd.tubemogul.com^
-||rum8.perf.linkedin.com^
-||rum14.perf.linkedin.com^
-||s-static.ak.facebook.com.edgekey.net^
 ||s7.addthis.com^
 ||s.ads-twitter.com^
 ||s.amazon-adsystem.com^
@@ -466,7 +438,6 @@ image*.hotmovies.com
 ||s.twimg.com^
 ||s.w.org^
 ||s.ytimg.com^
-||sac-h-ct-m-fbx.fbsbx.com.online-metrix.net^
 ||sb.scorecardresearch.com^
 ||sc-cdn.net^
 ||sdk.hockeyapp.net^
@@ -488,7 +459,6 @@ image*.hotmovies.com
 ||stat.livejournal.com^
 ||static-ecst.licdn.com^
 ||static.ads-twitter.com^
-||static.ak.facebook.com.edgesuite.net^
 ||static.hotjar.com^
 ||static.licdn.com^
 ||static.thefacebook.com^
@@ -531,8 +501,9 @@ image*.hotmovies.com
 ||watchdog.goodbyeads.youtube^
 ||watchdog.goodbyeads^
 ||weareher.com^
-||webengage.co*^
+||webengage.com^
 ||whatsapp.com^
+||whatsapp.net^
 ||widgets.twimg.com^
 ||www-cdn.whatsapp.net^
 ||www-google-analytics.l.google.com^
@@ -552,7 +523,6 @@ image*.hotmovies.com
 ||x.com^
 ||xlog-va.byteoversea.com^
 ||xxxjmp.com^
-||yahoo.*^
 ||yt1.ggpht.com^
 ||yt2.ggpht.com^
 ||yt4.ggpht.com^
