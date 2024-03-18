@@ -150,6 +150,7 @@ image*.hotmovies.com
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||gstaticadssl.l.google.com^
+||h-ct-m-fbx.fbsbx.com.online-metrix.net^
 ||hangouts.google.com^
 ||horizon-static-np.s3.amazonaws.com^
 ||hosted-by.lelux.site^
@@ -180,11 +181,14 @@ image*.hotmovies.com
 ||l2.shared.us-eu.fastly.net^
 ||laptop-updates.brave.com^
 ||listed.to^
+||logger.instagram.com^
+||m.me^
 ||mail-ads.google.com^
 ||majorgeekscom.disqus.com^
 ||manifest.googlevideo.com^
 ||mcgthfrqrs95vdbzkhtchf5fc0g4.device.marketingcloudapis.com^
 ||media.fastclick.net^
+||messenger.com^
 ||metrics.ubuntu.com^
 ||mobile.events.data.microsoft.com^
 ||mtalk.google.com^
@@ -223,6 +227,7 @@ image*.hotmovies.com
 ||player.hotpornfile.org^
 ||prod.balrog.prod.cloudops.mozgcp.net^
 ||prod.detectportal.prod.cloudops.mozgcp.net^
+||profile.ak.facebook.com.edgesuite.net^
 ||pscoretestdata.blob.core.windows.net^
 ||r5*.gvt1.com^
 ||r*.youtube-nocookie.com^
@@ -233,11 +238,13 @@ image*.hotmovies.com
 ||rtd.tubemogul.com^
 ||rum8.perf.linkedin.com^
 ||rum14.perf.linkedin.com^
+||s-static.ak.facebook.com.edgekey.net^
 ||s7.addthis.com^
 ||s.amazon-adsystem.com^
 ||s.ss2.us^
 ||s.w.org^
 ||s.ytimg.com^
+||sac-h-ct-m-fbx.fbsbx.com.online-metrix.net^
 ||sb.scorecardresearch.com^
 ||sc-cdn.net^
 ||sdk.hockeyapp.net^
@@ -256,6 +263,7 @@ image*.hotmovies.com
 ||srv.buysellads.com^
 ||stat.livejournal.com^
 ||static-ecst.licdn.com^
+||static.ak.facebook.com.edgesuite.net^
 ||static.hotjar.com^
 ||stats.wp.com^
 ||statsy.net^
