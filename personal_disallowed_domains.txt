@@ -230,6 +230,7 @@ image*.hotmovies.com
 ||likee.video^
 ||linkedin.com^
 ||listed.to^
+||liveadvert.com^
 ||lobi.co^
 ||m.me^
 ||ma0.twimg.com^
