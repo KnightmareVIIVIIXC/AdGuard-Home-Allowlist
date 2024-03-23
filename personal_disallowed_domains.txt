@@ -14,7 +14,6 @@
 161.117.71.35
 161.117.71.73
 161.117.71.74
-image*.hotmovies.com
 ||2mdn.net^
 ||2p66nmmycsj3.statuspage.io^
 ||a1838.dscw154.akamai.net^
@@ -194,6 +193,7 @@ image*.hotmovies.com
 ||horizon-static-np.s3.amazonaws.com^
 ||hosted-by.lelux.site^
 ||hostname.bind^
+||hotmovies.com^
 ||i1.ytimg.com^
 ||i.pinimg.com.edgekey.net^
 ||i.postimg.cc^
