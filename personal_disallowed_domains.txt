@@ -98,7 +98,6 @@
 ||coral.ai^
 ||creative.cc-dt.com^
 ||crl.rootca1.amazontrust.com^
-||crpdt.livejasmin.com^
 ||cse.google.com^
 ||cxcs.microsoft.net^
 ||d2rdfnizen5apl.cloudfront.net^
@@ -231,6 +230,7 @@
 ||linkedin.com^
 ||listed.to^
 ||liveadvert.com^
+||livejasmin.com^
 ||lobi.co^
 ||m.me^
 ||ma0.twimg.com^
