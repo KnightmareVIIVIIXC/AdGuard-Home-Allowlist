@@ -1138,12 +1138,10 @@
 ||1116666.net^
 ||1800800.co.il^
 ||3207070.ru^
-||4171764.fls.doubleclick.net^
 ||7287975.cdnbay.com^
 ||7776666.net^
 ||8008135.blogspot.com^
 ||8886666.net^
-||9212252.fls.doubleclick.net^
 ||9996666.net^
 ||115776615-884492032168661957.preview.editmysite.com^
 ||543874163.ddns.net^
@@ -1447,7 +1445,6 @@
 ||acuptube.com^
 ||acwswfbyhtsf.com^
 ||acxujxzdluum.com^
-||ad-apac.doubleclick.net^
 ||ad-bg.adwo.com^
 ||ad-count.adwo.com^
 ||ad-delivery.net^
@@ -1474,16 +1471,13 @@
 ||ad.api.moji.com^
 ||ad.caiyunapp.com^
 ||ad.cdn.sex^
-||ad.cn.doubleclick.net^
 ||ad.dev.360.cn^
-||ad.doubleclick.net^
 ||ad.dqwjzm.com^
 ||ad.duapps.com^
 ||ad.gamebox.360.cn^
 ||ad.greedland.net^
 ||ad.holaq.com^
 ||ad.jokeroo.com^
-||ad.jp.doubleclick.net^
 ||ad.jsnbrynb.com^
 ||ad.mail.sohu.com^
 ||ad.netowl.jp^
@@ -1631,7 +1625,6 @@
 ||adrinkinthedesert.blogspot.com^
 ||adristarter.eu^
 ||adrtgbebgd.bid^
-||ads-a.juicyads.com^
 ||ads-west-colo.adsymptotic.com^
 ||ads1.msads.net^
 ||ads1.msn.com^
@@ -2127,7 +2120,6 @@
 ||advokat-hlan.ru^
 ||adx-static.ksosoft.com^
 ||adx.ads.oppomobile.com^
-||adx.g.doubleclick.net^
 ||adx.xiaodutv.com^
 ||adxadserv.com^
 ||adxpansion.com^
@@ -5288,7 +5280,6 @@
 ||assets04.mrskincdn.com^
 ||assets05.mrskincdn.com^
 ||assets.210189.com^
-||assets.adobedtm.com^
 ||assets.frame.io^
 ||assets.mylfcdn.net^
 ||assets.servedby-buysellads.com^
@@ -6978,7 +6969,6 @@
 ||bibleblackfanblog.blogspot.com^
 ||biblioteca-hentaiv1.blogspot.com^
 ||bichesporn.com^
-||bid.g.doubleclick.net^
 ||bier69.com^
 ||biftbtajfs.bid^
 ||bifuck.com^
@@ -9539,7 +9529,6 @@
 ||cdn.namunil.com^
 ||cdn.newapi.com^
 ||cdn.optaim.com^
-||cdn.popcash.net^
 ||cdn.popmyads.com^
 ||cdn.pornxnxxvideos.com^
 ||cdn.puata.info^
@@ -10555,7 +10544,6 @@
 ||cm.dmp.sina.cn^
 ||cm.eyereturn.com^
 ||cm.fancyapi.com^
-||cm.g.doubleclick.net^
 ||cm.gtags.net^
 ||cm.he2d.com^
 ||cm.jd.com^
@@ -10665,7 +10653,6 @@
 ||coffetubehd.com^
 ||cogaixinh.live^
 ||cogiaothao69.com^
-||cognito-identity.us-east-1.amazonaws.com^
 ||cogxsnvqesph.com^
 ||coheteporno.net^
 ||coihive.com^
@@ -11443,7 +11430,6 @@
 ||csyngxtkifrh.com^
 ||ct.210189.com^
 ||ct.niu.xunlei.com^
-||ct.pinterest.com^
 ||ctbusinessdaily.com^
 ||ctca.eu^
 ||ctgoivpnnze.bid^
@@ -12182,7 +12168,6 @@
 ||dbxxqp.com^
 ||dbysmkeerpzo.com^
 ||dbz-hentai.blogspot.com^
-||dc.ads.linkedin.com^
 ||dc.csdn.net^
 ||dc.meitustat.com^
 ||dcads.sina.com.cn^
@@ -13369,7 +13354,6 @@
 ||dp-discretoprazer.blogspot.com^
 ||dp568phim.com^
 ||dp.559.cc^
-||dp.g.doubleclick.net^
 ||dp.im.weibo.cn^
 ||dpallyihgtgu.com^
 ||dpaus.blogspot.com^
@@ -19869,7 +19853,6 @@
 ||gooescorts.com^
 ||google-analytics.com^
 ||googleadapis.l.google.com^
-||googleads.g.doubleclick.net^
 ||googleadservices.com^
 ||googleatmyporn.blogspot.com^
 ||googlesyndication.com^
@@ -22317,7 +22300,6 @@
 ||hopafrmwpckj.com^
 ||hopkinsvilletimes.com^
 ||hoplink.ksosoft.com^
-||horizon-static-np.s3.amazonaws.com^
 ||hornbunny.com^
 ||horneyhd.com^
 ||horneylikeme.blogspot.com^
@@ -23992,7 +23974,6 @@
 ||imoxxnx.com^
 ||imp.go.sohu.com^
 ||imp.optaim.com^
-||impala-media-production.s3.amazonaws.com^
 ||imperialcanews.com^
 ||imperiodefamosas.com^
 ||imperium.getmyip.com^
@@ -26344,7 +26325,6 @@
 ||js.stripe.com^
 ||js.union-wifi.com^
 ||js.users.51.la^
-||js.vidoza.net^
 ||js.wpncdn.com^
 ||js.wu65.com^
 ||js.xiansuper.com^
@@ -34646,7 +34626,6 @@
 ||nzyymvidnbvz.bid^
 ||o-be.com^
 ||o2o.api.xiaomi.com^
-||o23210.ingest.sentry.io^
 ||o.if.qidian.com^
 ||o.minisplat.cn^
 ||o.ss2.us^
@@ -35783,7 +35762,6 @@
 ||page3girls.blogspot.com^
 ||page.link^
 ||pagead2.googlesyndication.xxxcom^
-||pagead46.l.doubleclick.net^
 ||pagechoice.net^
 ||pages-angelfire.whowhere.com^
 ||pageshow.dftoutiao.com^
@@ -37615,7 +37593,6 @@
 ||pinkytoy.com^
 ||pinoyscandal.blogspot.com^
 ||pinpages.alwaysdata.net^
-||pinpoint.us-east-1.amazonaws.com^
 ||pinporngifs.blogspot.com^
 ||pinslut.com^
 ||pinterest.com^
@@ -37786,7 +37763,6 @@
 ||play.alt.indigital.lt^
 ||play.anyname.zelfo.pw^
 ||play.assets.shentaiesp.asia^
-||play.dsd.everydayporn.co^
 ||play.estream.nu^
 ||play.estream.xyz^
 ||play.freebsd.nnna.ru^
@@ -42070,7 +42046,6 @@
 ||ps.map.baidu.com^
 ||psbadfsth.bid^
 ||psbbanners.com^
-||pscoretestdata.blob.core.windows.net^
 ||psehuhxpqip.bid^
 ||pseudoccultmedia.blogspot.com^
 ||psfq.gou.sogou.com^
@@ -42119,7 +42094,6 @@
 ||pub.se.360.cn^
 ||pub.xxx^
 ||puba.com^
-||pubads.g.doubleclick.net^
 ||pubbock.com^
 ||pubic-hair-shaving.blogspot.com^
 ||public-invasion.blogspot.com^
@@ -42472,7 +42446,6 @@
 ||pwzffpolfs.bid^
 ||pwzjsujf.bid^
 ||px.adhigh.net^
-||px.ads.linkedin.com^
 ||px.moatads.com^
 ||px.owneriq.net^
 ||px.powerlinks.com^
@@ -43260,16 +43233,12 @@
 ||redd.it^
 ||redd.tube^
 ||reddingtoday.com^
-||reddit-image.s3.amazonaws.com^
 ||reddit-stream.com^
-||reddit-uploaded-media.s3-accelerate.amazonaws.com^
-||reddit-uploaded-video.s3-accelerate.amazonaws.com^
 ||reddit.com^
 ||reddit.map.fastly.net^
 ||reddit.rest^
 ||redditblog.com^
 ||redditgifts.com^
-||redditgifts.s3.amazonaws.com^
 ||redditmedia.com^
 ||redditporn.org^
 ||reddpics.com^
@@ -44257,10 +44226,8 @@
 ||s-games.xyz^
 ||s-hentai.com^
 ||s-xxx.com^
-||s0.2mdn.net^
 ||s01.vidtod.me^
 ||s01.vidtodo.pro^
-||s1.2mdn.net^
 ||s1.cdnv365.com^
 ||s1.cmfu.com^
 ||s1.cnzz.com^
@@ -44963,7 +44930,6 @@
 ||securegfm.com^
 ||securemetro.com^
 ||securepayment.cc^
-||securepubads.g.doubleclick.net^
 ||securesaferoute.com^
 ||security.browser.miui.com^
 ||security.fblaster.com^
@@ -47310,7 +47276,6 @@
 ||shadedbedtimestories.blogspot.com^
 ||shadu.baidu.com^
 ||shadypi.com^
-||shagmag-media-2.s3.us-east-2.amazonaws.com^
 ||shagmag.com^
 ||shahidporn.com^
 ||shahvani.com^
@@ -48758,13 +48723,10 @@
 ||static.ads-twitter.com^
 ||static.adsafeprotected.com^
 ||static.adwo.com^
-||static.adxadserv.com^
 ||static.alimama.com^
 ||static.ccnwebcams.com^
 ||static.criteo.net^
 ||static.danmu.baofeng.com^
-||static.doubleclick.net^
-||static.exosrv.com^
 ||static.flv.uuzuonline.com^
 ||static.hotjar.com^
 ||static.houyi.baofeng.net^
@@ -48799,7 +48761,6 @@
 ||stats.dmp.ghac.cn^
 ||stats.ethc.io^
 ||stats.feitianma.com^
-||stats.g.doubleclick.net^
 ||stats.infogenservice.com^
 ||stats.mokeedev.com^
 ||stats.outster.com^
@@ -57276,7 +57237,6 @@
 ||www.brutalpickups.com^
 ||www.bsex.co.il^
 ||www.bsexvideos.com^
-||www.btc.com^
 ||www.bullitt.jp^
 ||www.bullyhim.com^
 ||www.burrardstreetjournal.com^
@@ -57857,9 +57817,7 @@
 ||www.gold13.top^
 ||www.goldendesi.com^
 ||www.gonzoxxxmovies.com^
-||www.googleadservices.com^
 ||www.googleapis.com^
-||www.googletagmanager.com^
 ||www.googletagservices.com^
 ||www.goragay.com^
 ||www.gotdirtyxxxvideos.com^
@@ -65149,7 +65107,6 @@
 ||zigarettenonlinekaufen1.blox.pl^
 ||zigarettenonlinekaufen2.bloog.pl^
 ||zigarettenonlinekaufen2.drupalgardens.com^
-||zigarettenonlinekaufen.tumblr.com^
 ||ziglpcxcxetsi.com^
 ||zigtube.com^
 ||zijkalirgmyzj.bid^
