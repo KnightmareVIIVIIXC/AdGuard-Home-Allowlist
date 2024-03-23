@@ -254,7 +254,6 @@
 ||mobile.events.data.microsoft.com^
 ||mon-va.byteoversea.com^
 ||mon.byteoversea.com^
-||mtalk.google.com^
 ||muscdn.com^
 ||musemuse.cn^
 ||musical.ly^
