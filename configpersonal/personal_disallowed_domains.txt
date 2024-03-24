@@ -69157,8 +69157,6 @@
 ||analytics.meaww.com^
 ||mousegesturesapi.com^
 ||songlytics.net^
-||block-test-facebook.developerdan.com^
-||block-test.developerdan.com^
 ||facebook.design^
 ||facebookbrand.com^
 ||facebookmail.com^
@@ -69197,7 +69195,6 @@
 ||www.eastconsults.com^
 ||www.lifeartfertility.co.za^
 ||xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai^
-||block-test-amp.developerdan.com^
 ||youtube-nocookie.com^
 ||olugun.co.za^
 ||z.shavsl.com^
@@ -69228,10 +69225,6 @@
 ||analytics-collector-*.amazonaws.com^
 ||mtalk.google.com^
 ||r5*.gvt1.com^
-analytics-collector-*.amazonaws.com
-||bitbucket.org^
-||gpu.me^
-r5*.gvt1.com
 ||dhnconstrucciones.com.ar^
 ||y.shavsl.com^
 ||0008d6ba2e.com^
