@@ -1,0 +1,9 @@
+developerdan.com
+twitter.com
+jsdelivr.map.fastly.net
+bitbucket.org
+gpu.me
+||*.googlevideo.com^
+||*.googlevideo^
+||*.google^
+||*.youtube-nocookie.com^
