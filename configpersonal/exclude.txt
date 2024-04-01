@@ -15,7 +15,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 *@@*
 developerdan.com
-twitter.com
 jsdelivr.map.fastly.net
 bitbucket.org
 gpu.me
