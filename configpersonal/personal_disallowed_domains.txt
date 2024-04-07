@@ -1,12 +1,12 @@
 !
 ! Title: Personal List
-! Last modified: 2024-04-07T19:03:04.401Z
+! Last modified: 2024-04-07T21:33:15.842Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
 ||0-0-0-0-0-0-0-0-0-0-0-0-0-20-0-0-0-0-0-0-0-0-0-0-0-0-0.info^
-||0-0-0-0-0-0-0-0-0-0-0-0-0-30-0-0-0-0-0-0-0-0-0-0-0-0-0.info^
 ||0-0-0-0-0-0-0-0-0-0-0-0-0-3-0-0-0-0-0-0-0-0-0-0-0-0-0.info^
+||0-0-0-0-0-0-0-0-0-0-0-0-0-30-0-0-0-0-0-0-0-0-0-0-0-0-0.info^
 ||0-0-0-0-0-0-0-0-0-0-0-0-0-36-0-0-0-0-0-0-0-0-0-0-0-0-0.info^
 ||0-0-0-0-0-0-0-0-0-0-0-0-0-37-0-0-0-0-0-0-0-0-0-0-0-0-0.info^
 ||0-0-0-0-0-0-0-0-0-0-0-0-0-38-0-0-0-0-0-0-0-0-0-0-0-0-0.info^
@@ -2930,6 +2930,7 @@
 ||adcampo.com^
 ||adcannyads.com^
 ||adcash.com^
+||adcast.deviantart.com^
 ||adcel.co^
 ||adcell.de^
 ||adchoice.com^
@@ -3406,6 +3407,7 @@
 ||ads.desmoinesregister.com^
 ||ads.detelefoongids.nl^
 ||ads.dev.superawesome.tv^
+||ads.deviantart.com^
 ||ads.devmates.com^
 ||ads.digital-digest.com^
 ||ads.digitalmedianet.com^
@@ -3844,6 +3846,7 @@
 ||adspredictiv.com^
 ||adspsp.com^
 ||adsquare.com^
+||adsrv.deviantart.com^
 ||adsrv.eacdn.com^
 ||adsrv.iol.co.za^
 ||adsrv.kobi.tv^
@@ -21009,7 +21012,6 @@
 ||developmentbulletinglorious.com^
 ||developmentnewestrising.com^
 ||devianceisbliss.tumblr.com^
-||deviantart.com^
 ||deviantass.com^
 ||deviantclip.com^
 ||deviantfemale.tumblr.com^
@@ -31345,7 +31347,6 @@
 ||giperporno.net^
 ||giph-it.com^
 ||giphogantic.com^
-||giphy.com^
 ||giphy.map.fastly.net^
 ||giphyscripts.s3.amazonaws.com^
 ||gipsytrumpet.com^
@@ -82956,6 +82957,7 @@
 ||virginia.newmail.ru^
 ||virginiablueridge.com^
 ||virginiafiles.com^
+||virginiasanden.deviantart.com^
 ||virginidad.com^
 ||virginie.daviaud.free.fr^
 ||virginie.efira.free.fr^

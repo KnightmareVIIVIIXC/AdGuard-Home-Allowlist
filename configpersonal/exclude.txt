@@ -15,11 +15,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 *@@*
 developerdan.com
-jsdelivr.map.fastly.net
-bitbucket.org
-gpu.me
+||jsdelivr.map.fastly.net^
+||bitbucket.org^
+||gpu.me^
 ||*.googlevideo.com^
 ||*.googlevideo^
 ||*.google^
 ||*.youtube-nocookie.com^
 ||amazonaws.com^
+||urbandictionary.com^
+||deviantart.com^
+||giphy.com^
