@@ -14,7 +14,6 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 *@@*
-developerdan.com
 ||jsdelivr.map.fastly.net^
 ||bitbucket.org^
 ||*.googlevideo.com^
