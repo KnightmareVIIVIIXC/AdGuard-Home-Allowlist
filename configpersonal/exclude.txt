@@ -16,10 +16,6 @@ ff02::3 ip6-allhosts
 *@@*
 ||jsdelivr.map.fastly.net^
 ||bitbucket.org^
-||*.googlevideo.com^
-||*.googlevideo^
-||*.google^
-||*.youtube-nocookie.com^
 ||amazonaws.com^
 ||urbandictionary.com^
 ||deviantart.com^
