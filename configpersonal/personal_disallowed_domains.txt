@@ -1,6 +1,6 @@
 !
 ! Title: Personal List
-! Last modified: 2024-04-17T19:06:43.915Z
+! Last modified: 2024-04-17T19:39:50.315Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -418,6 +418,7 @@
 ||100mountain.com^
 ||100nonude.biz^
 ||100pdf.net^
+||100percentfedup.com^
 ||100percentfreeporn.blogspot.com^
 ||100pezd.cc^
 ||100pezd.net^
@@ -1494,6 +1495,7 @@
 ||21sextreme.com^
 ||21sextury.com^
 ||21sexturycash.com^
+||21stcenturywire.com^
 ||21wiz.com^
 ||21x.org^
 ||22-courier.push.apple.com^
@@ -2775,6 +2777,7 @@
 ||4sqt6jq.de^
 ||4stats.de^
 ||4thofjulypictureedit.com^
+||4threvolutionarywar.wordpress.com^
 ||4tnui5r06j62.com^
 ||4tt4.shop^
 ||4tube.asia^
@@ -3353,6 +3356,7 @@
 ||70ba306f76.com^
 ||70c4d70a16.com^
 ||70degrees.com.my^
+||70news.wordpress.com^
 ||71-evakuator.ru^
 ||71.am^
 ||7131c4c2d2.com^
@@ -4811,6 +4815,7 @@
 ||aan.amazon.in^
 ||aan.amazon.it^
 ||aanetwork.vn^
+||aanirfan.blogspot.com^
 ||aaoisp.com^
 ||aaowoiriurnnhhcjjdhhuue.site^
 ||aapeople.cn^
@@ -5790,6 +5795,7 @@
 ||actrqdr.cn^
 ||actuabd.com^
 ||actual-porn.org^
+||actualidad.rt.com^
 ||actualidadpanamericana.com^
 ||actualincesttube.org^
 ||actuallyfrustration.com^
@@ -6926,6 +6932,7 @@
 ||addictedattention.com^
 ||addictedtoblowjob.blogspot.com^
 ||addictedwonder.com^
+||addictinginfo.org^
 ||addin.icu^
 ||addin.name^
 ||addingappointedprecede.com^
@@ -7663,6 +7670,7 @@
 ||adobetag.com^
 ||adobetarget.com.edgekey.net^
 ||adobetarget.com^
+||adobochronicles.com^
 ||adocean-global.com^
 ||adocean.cz^
 ||adocean.pl^
@@ -12604,6 +12612,7 @@
 ||allnesskepped.com^
 ||allnewindianporn.com^
 ||allnewp.com^
+||allnewspipeline.com^
 ||allnicefeed.com^
 ||allnicespot.com^
 ||allnokia.ru^
@@ -13408,8 +13417,11 @@
 ||americancumdolls.com^
 ||americandaydreams99.blogspot.com^
 ||americanflings.com^
+||americanfreepress.net^
 ||americanfriendsofreuth.org^
 ||americanlisted.com^
+||americanlookout.com^
+||americanmilitarynews.com^
 ||americannaziparty.com^
 ||americannews.com^
 ||americanservicepets.com^
@@ -18664,6 +18676,7 @@
 ||anonads.net^
 ||anondns.net^
 ||anonews.co^
+||anonhq.com^
 ||anonibs.com^
 ||anonidealist.blogspot.com^
 ||anontube.com^
@@ -18677,6 +18690,7 @@
 ||anonymous-communication.ghostery.net^
 ||anonymousads.com^
 ||anonymousjane.blogspot.com^
+||anonymousnews.ru^
 ||anonymoussex.blogspot.com^
 ||anonymoustrunk.com^
 ||anopportunitytost.info^
@@ -20477,6 +20491,7 @@
 ||arabianmotion.com^
 ||arabianpdfbooks.info^
 ||arabic-life.buzz^
+||arabic.rt.com^
 ||arabic18.com^
 ||arabicalinaangel.com^
 ||arabicporn.com.es^
@@ -21154,6 +21169,7 @@
 ||ashangelo.blogspot.com^
 ||ashantibengals.com^
 ||ashcdn.com^
+||asheepnomore.net^
 ||asheeroopsol.com^
 ||ashemale.com^
 ||ashemale.one^
@@ -21207,6 +21223,7 @@
 ||asia-northeast3-kmplex-905ad.cloudfunctions.net^
 ||asia-onrt-stsdk.vivoglobal.com^
 ||asia-ort-stsdk.vivoglobal.com^
+||asia-pacificresearch.com^
 ||asia-pnrt-stsdk.vivoglobal.com^
 ||asia-porn.tv^
 ||asia-prt-stsdk.vivoglobal.com^
@@ -22817,6 +22834,7 @@
 ||awareallicin.top^
 ||awarecatching.com^
 ||awareista.com^
+||awarenessact.com^
 ||awarenessfundraiserstump.com^
 ||awarenessinstance.com^
 ||awarenesstack.com^
@@ -25441,6 +25459,7 @@
 ||beforehandeccentricinhospitable.com^
 ||beforehandopt.com^
 ||beforeignunlig.com^
+||beforeitsnews.com^
 ||befrx.com^
 ||befuck.club^
 ||befuck.com^
@@ -26765,6 +26784,7 @@
 ||bigindianporn.pro^
 ||bigindiansex.mobi^
 ||bigleads.ru^
+||bigleaguepolitics.com^
 ||biglesbiantits.org^
 ||bigmacthumb.com^
 ||bigmatureass.net^
@@ -27016,6 +27036,7 @@
 ||biowebb-data.s3.amazonaws.com^
 ||bioxtubes.com^
 ||biozdravi.eu^
+||bipartisanreport.com^
 ||biphic.com^
 ||bipividiyosekasi.com^
 ||biplihopsdim.com^
@@ -27407,6 +27428,7 @@
 ||blacklinknow.com^
 ||blacklinknowss.co^
 ||blacklistalert.org^
+||blacklistednews.com^
 ||blackmailbrigade.com^
 ||blackmailingpanic.com^
 ||blackmailshoot.com^
@@ -31948,6 +31970,7 @@
 ||cart8draw.com^
 ||cartdeeplydetector.com^
 ||cartedneogene.com^
+||cartelpress.com^
 ||carteretcounty.com^
 ||carterruinbenign.com^
 ||cartining-specute.com^
@@ -34001,6 +34024,7 @@
 ||chelurasippet.guru^
 ||chemdraw.com.cn^
 ||chemicalglobe.com^
+||chemicals.news^
 ||chemicalsretailer.com^
 ||chemicsemsen.guru^
 ||chemicstriedly.com^
@@ -34916,6 +34940,7 @@
 ||clarobuscar.com^
 ||clarotarted.digital^
 ||clash-media.com^
+||clashdaily.com^
 ||clashencouragingwooden.com^
 ||claspedammu.com^
 ||claspeddeceiveposter.com^
@@ -36525,6 +36550,7 @@
 ||collaboration-analytics.scinfradev.com^
 ||collaborativesolutions.com^
 ||collabsolutions.co.za^
+||collapse.news^
 ||collapsecheering.com^
 ||collapsecuddle.com^
 ||collarchefrage.com^
@@ -37491,8 +37517,10 @@
 ||consequentlylukespeedy.com^
 ||conservationdisposable.com^
 ||conservationlumber.com^
+||conservativebyte.com^
 ||conservativedailypost.com^
 ||conservativefiringline.com^
+||conservativetribune.com^
 ||conservatiy.com^
 ||consfera.it^
 ||considerablymiscalculate.com^
@@ -37522,6 +37550,7 @@
 ||consommateurkm.com^
 ||consoupow.com^
 ||conspicuousclasp.com^
+||conspiracydailyupdate.com^
 ||conspiritualityaus.com^
 ||const.uno^
 ||constabledistractedtrivial.com^
@@ -42085,9 +42114,11 @@
 ||dailybasis.com^
 ||dailybibleguide.com^
 ||dailyblogzz.com^
+||dailycaller.com^
 ||dailychicago1.xyz^
 ||dailychronicles2.xyz^
 ||dailycineplay.com^
+||dailycurrant.com^
 ||dailydirectx.com^
 ||dailyfeastrecipe.com^
 ||dailyfeature.net^
@@ -42945,6 +42976,7 @@
 ||davarello.com^
 ||davctinijon.com^
 ||davidcontributorlanded.com^
+||davidduke.com^
 ||davidtal.co.il^
 ||davidxh.site^
 ||davielyedith.com^
@@ -43911,6 +43943,7 @@
 ||denieuweproef.nl^
 ||denisenkov.org^
 ||denlorian.com^
+||dennismichaellynch.com^
 ||denoughtanot.info^
 ||denounceassuredinflection.com^
 ||denounceburialbrow.com^
@@ -44363,6 +44396,7 @@
 ||deutsch-sexfilm.com^
 ||deutsch-sexfilme.com^
 ||deutsch.monster^
+||deutsch.rt.com^
 ||deutschanimalsex.top^
 ||deutschcasting.com^
 ||deutsche-pornobilder.com^
@@ -49088,7 +49122,9 @@
 ||eduad.baidu.com^
 ||eduardorodiguez9584.ongraphy.com^
 ||educacionsanvicentefundacion.com^
+||educate-yourself.org^
 ||educatedcoercive.com^
+||educateinspirechange.org^
 ||educatiocenter.online^
 ||education-all.ru^
 ||education.graduateprogram.org^
@@ -49941,6 +49977,7 @@
 ||emetriq.de^
 ||emeu0circ.com^
 ||emf-harmony.com^
+||emf.news^
 ||emfblues.com^
 ||emforce.co.kr^
 ||emfshieldprotect.com^
@@ -50198,6 +50235,7 @@
 ||endljp.abv.bg^
 ||endocrineweb.com^
 ||endofinternet.net^
+||endoftheamericandream.com^
 ||endolift.cn^
 ||endooflint7.com^
 ||endorico.com^
@@ -53290,6 +53328,7 @@
 ||familyporntaboo.com^
 ||familyporntubes.com^
 ||familyscrew.com^
+||familysecuritymatters.org^
 ||familyseductions.org^
 ||familysex.info^
 ||familysexmassage.com^
@@ -56209,6 +56248,7 @@
 ||forbidcrenels.com^
 ||forbiddenconsume.com^
 ||forbiddenfap.com^
+||forbiddenknowledgetv.net^
 ||forbiddenphotos.net^
 ||forbiddenrape.com^
 ||forbiddenzoo.com^
@@ -56755,6 +56795,7 @@
 ||frameworknephew.com^
 ||frameworkprobable.com^
 ||framingmanoeuvre.com^
+||francais.rt.com^
 ||francais.top^
 ||franceoffrande.website^
 ||franciatirribi.com^
@@ -56991,6 +57032,7 @@
 ||freebbwpix.blogspot.com^
 ||freebbwtoons.com^
 ||freebdsmxxx.org^
+||freebeacon.com^
 ||freebeegporn.net^
 ||freebeegtube.com^
 ||freebestporn.cc^
@@ -57038,6 +57080,7 @@
 ||freedirtygame.com^
 ||freedl.org^
 ||freedom-vpnnet.com^
+||freedom.news^
 ||freedom101.club^
 ||freedomadnetwork.com^
 ||freedomart.cz^
@@ -57827,6 +57870,7 @@
 ||frompdftodoc-svc.com^
 ||frompdftodoctab-svc.com^
 ||frompolje.uno^
+||fromthetrenchesworldreport.com^
 ||fronius-se-iot-dm-1-telemetry.azure-devices.net^
 ||fronius-se-iot-telemetry.azure-devices.net^
 ||front-metric.road404.com^
@@ -58232,6 +58276,7 @@
 ||fugreefy.top^
 ||fugu-tracker.web.app^
 ||fuhouse.club^
+||fuhrerious88blog.wordpress.com^
 ||fuhrerscheinn.com^
 ||fui4j3kd.com^
 ||fujairahfreezone.com^
@@ -59361,6 +59406,7 @@
 ||gatend.xyz^
 ||gaterhouso.com^
 ||gatesnapper.com^
+||gatesofvienna.net^
 ||gatespains.com^
 ||gatetocontent.com^
 ||gatetodisplaycontent.com^
@@ -59945,6 +59991,7 @@
 ||gen2server.com^
 ||genbalar.com^
 ||gencomics.es^
+||gender.news^
 ||genderx.com^
 ||genelajans.com^
 ||generalebad.xyz^
@@ -61477,6 +61524,7 @@
 ||globalonlinechemical.com^
 ||globalpdfconvertersearch.com^
 ||globalpoultrycoltd.com^
+||globalresearch.ca^
 ||globalrubbercorporation.com^
 ||globalscraps.com^
 ||globalsearch.pw^
@@ -62111,6 +62159,7 @@
 ||gomapsandirections.com^
 ||gomastabrat.com^
 ||gomend.xyz^
+||gomerblog.com^
 ||gomez.com^
 ||gomixpiin.top^
 ||gomlab-log-17054681.us-east-1.elb.amazonaws.com^
@@ -63610,6 +63659,7 @@
 ||gubagootracking.com^
 ||gubudakis.com^
 ||gucci-outlet.cc^
+||guccifer2.wordpress.com^
 ||guchihyfa.pro^
 ||gudameiotas.space^
 ||gudangbanner.com^
@@ -65459,6 +65509,7 @@
 ||healthfailed.com^
 ||healthguides.cnn.com^
 ||healthhype.com^
+||healthimpactnews.com^
 ||healthinsuranceusa.org^
 ||healthlanguage.com^
 ||healthmeal1.xyz^
@@ -65740,6 +65791,7 @@
 ||henoticpipi.com^
 ||henpace-ara6.blogspot.com^
 ||henriettaproducesdecide.com^
+||henrymakow.com^
 ||hentai-anime-xxx.com^
 ||hentai-cartoons-1619.blogspot.com^
 ||hentai-cosplays.com^
@@ -70338,6 +70390,7 @@
 ||illuminateinconveniencenutrient.com^
 ||illuminatelocks.com^
 ||illuminateslydeliberate.com^
+||illuminati-news.com^
 ||illuminous.xyz^
 ||illusiongaietytedious.com^
 ||illusiveremarkstreat.com^
@@ -71785,6 +71838,7 @@
 ||info.evidon.com^
 ||info.gf^
 ||info.gomlab.com^
+||info.kopp-verlag.de^
 ||info.sec.miui.com^
 ||info.tm^
 ||info24xyz.xyz^
@@ -71855,6 +71909,7 @@
 ||infotrigger.net^
 ||infourl.net^
 ||infourok.ru^
+||infowars.com^
 ||infox.sg^
 ||infra.systems^
 ||infractructurebiopsycircumstances.com^
@@ -74058,6 +74113,7 @@
 ||janime.top^
 ||janitoraccrue.com^
 ||janitorcanvass.com^
+||janmorganmedia.com^
 ||janrainsso.com^
 ||janssencarepathportal.com^
 ||januarydeliverywarfare.com^
@@ -76442,6 +76498,7 @@
 ||katebugs.com^
 ||katecontraction.com^
 ||katecrochetvanity.com^
+||katehon.com^
 ||katerina-hartlova.com^
 ||katestube.com^
 ||katestube.pro^
@@ -77051,6 +77108,7 @@
 ||kinguys.com^
 ||kinguysmaster.blogspot.com^
 ||kingwam.com^
+||kingworldnews.com^
 ||kingyonlendir.link^
 ||kinitstar.com^
 ||kink.com^
@@ -78403,6 +78461,7 @@
 ||lancetrollobjects.com^
 ||land.coralogix.com^
 ||landbns.com^
+||landdestroyer.blogspot.com^
 ||landelcut.com^
 ||landerhd.com^
 ||landfowl.typegang.com^
@@ -78532,6 +78591,7 @@
 ||larndiffide.com^
 ||larontale.com^
 ||laronwinepot.top^
+||larouchepub.com^
 ||laroudey.com^
 ||larparus.com^
 ||larpollicwilli.club^
@@ -79814,10 +79874,13 @@
 ||liberaumil.com^
 ||libertyammunitions.com^
 ||libertyapparel.us^
+||libertyblitzkrieg.com^
 ||libertycdn.com^
 ||libertystmedia.com^
 ||libertysuededrizzle.com^
 ||libertytalk.fm^
+||libertyunyielding.com^
+||libertyvideos.org^
 ||libertyx.com^
 ||libertyzeay.com^
 ||liberumteatre.ru^
@@ -85827,6 +85890,7 @@
 ||medialead.de^
 ||medialytics.com^
 ||mediamarketstream.com^
+||mediamass.net^
 ||mediamath.com^
 ||mediamathrdrt.com^
 ||mediamathtag.com^
@@ -88780,6 +88844,7 @@
 ||mindcontroltheatre.com^
 ||mindedcarious.com^
 ||minden-egyben.com^
+||mindenszo.hu^
 ||minderalasselfemployed.com^
 ||minderfaucetdramatic.com^
 ||mindhackers.org^
@@ -94388,6 +94453,7 @@
 ||naturalistscrowd.com^
 ||naturallyedaciousedacious.com^
 ||naturallynakednudes.com^
+||naturalpedia.com^
 ||naturalrems.shop^
 ||naturaltracking.com^
 ||nature-start.com^
@@ -96470,6 +96536,7 @@
 ||newswhip.com^
 ||newswhose.com^
 ||newswidget.net^
+||newswire-24.com^
 ||newswithviews.com^
 ||newsyour.net^
 ||newszone1.ru^
@@ -97210,6 +97277,7 @@
 ||node7seat.com^
 ||nodeclaim.com^
 ||nodepositbonus.cc^
+||nodisinfo.com^
 ||nodouslover.com^
 ||nodousnotself.com^
 ||nodreewy.net^
@@ -98865,6 +98933,7 @@
 ||occdmioqlo.com^
 ||occums.com^
 ||occupationcomplimentsenjoyment.com^
+||occupydemocrats.com^
 ||occuratedolp.club^
 ||occuration.info^
 ||occurclaimed.com^
@@ -99035,6 +99104,7 @@
 ||ofdnkro.xyz^
 ||ofdrapiona.com^
 ||ofeetles.pro^
+||off-guardian.org^
 ||off-track.bubbleapps.io^
 ||offaces-butional.com^
 ||offalakazaman.com^
@@ -99175,6 +99245,7 @@
 ||oftheappyri.org^
 ||oftheseveryh.org^
 ||ofthinkfutile.com^
+||oftwominds.com^
 ||ofvafragqa.com^
 ||ofviewer.live^
 ||ofydky.beautycounter.com^
@@ -100521,6 +100592,7 @@
 ||opdwuvocxq.com^
 ||opealleven.com^
 ||opecloud.com^
+||opednews.com^
 ||opefaq.com^
 ||opehs.tanx.com^
 ||open-analytics.hrw.org^
@@ -103258,6 +103330,7 @@
 ||patriotclaim.com^
 ||patriotnationpress.com^
 ||patriottypeout.space^
+||patriotupdate.com^
 ||patrolcontinually.com^
 ||patrolxxx.com^
 ||patronageausterity.com^
@@ -106011,6 +106084,7 @@
 ||platitudefivesnack.com^
 ||platitudezeal.com^
 ||platoniclesbianthreesome.blogspot.com^
+||platosguns.com^
 ||platypus.cmp.is^
 ||platypus.colly.com^
 ||platypus.tompec.com^
@@ -106767,6 +106841,7 @@
 ||politicalnewscenter.com^
 ||politicalporter.com^
 ||politicalsale3.xyz^
+||politicalvelcraft.org^
 ||politicianbusplate.com^
 ||politiciancuckoo.com^
 ||politicops.com^
@@ -110404,6 +110479,7 @@
 ||pressedbackfireseason.com^
 ||pressespledget.com^
 ||pressflex.com^
+||pressfortruth.ca^
 ||pressglobe.info^
 ||pressize.com^
 ||pressly.com^
@@ -110412,6 +110488,7 @@
 ||pressshoppr-dot-yamm-track.appspot.com^
 ||presssnews.biz^
 ||presstocontinue.com^
+||presstv.com^
 ||pressyour.com^
 ||prestadsng.com^
 ||prestigefood.ru^
@@ -111236,6 +111313,7 @@
 ||projectspropose.com^
 ||projectstempteddetergent.com^
 ||projectsunblock.com^
+||projectveritas.com^
 ||projectvoyeur.com^
 ||projectwonderful.com^
 ||projetmildful.com^
@@ -114760,6 +114838,7 @@
 ||rbrxg.com^
 ||rbsodzgoy.xyz^
 ||rbtds.net^
+||rbth.com^
 ||rbthre.work^
 ||rbtwo.bid^
 ||rbvymxnz.bruntworkwear.com^
@@ -114950,6 +115029,7 @@
 ||readyblossomsuccesses.com^
 ||readydolphinpoverty.com^
 ||readymoon.com^
+||readynutrition.com^
 ||readyrefresh.com^
 ||readysugerfree.top^
 ||readytodistribute.com^
@@ -115632,6 +115712,7 @@
 ||redsquare.rambler.ru^
 ||redstarpoker.com^
 ||redstatcounter.com^
+||redstatewatcher.com^
 ||redsurf.ru^
 ||redswoosh.com^
 ||redtailalarge.life^
@@ -116276,6 +116357,7 @@
 ||renomeeguze.com^
 ||renovatefairfaxmope.com^
 ||renownsimultaneouslyunresolved.com^
+||rense.com^
 ||rensuvoofeex.com^
 ||rent-a-centerb2b.my.salesforce-sites.com^
 ||rent.men^
@@ -116383,6 +116465,7 @@
 ||report3.biz^
 ||reportappgo.189.cn^
 ||reportbulletindaybreak.com^
+||reporter.bz^
 ||reporthenveri.com^
 ||reportic.app^
 ||reporting-analytics.philips.com^
@@ -117282,6 +117365,7 @@
 ||rightsurf.info^
 ||righttracker1.com^
 ||rightwing.org^
+||rightwingnews.com^
 ||rightyhugelywatch.com^
 ||rightypulverizetea.com^
 ||rigi9bury.com^
@@ -117393,6 +117477,7 @@
 ||riseup-t-code.com^
 ||risk-analytics.paytm.com^
 ||risk.clearbit.com^
+||risk.news^
 ||riskelaborate.com^
 ||riskid.security^
 ||riskified.com^
@@ -117822,6 +117907,7 @@
 ||ronionbiretta.space^
 ||ronjeremyporn.net^
 ||ronm.top^
+||ronpaulinstitute.org^
 ||ronrubinwinery.com^
 ||rontar.com^
 ||roobetaffiliates.com^
@@ -118423,6 +118509,7 @@
 ||rtclx.com^
 ||rtcollector.goeuro.com^
 ||rtcstats-server-pilot.jitsi.net^
+||rtd.rt.com^
 ||rtds.progressive.com^
 ||rtdxqq.com^
 ||rte-tracker.nyc3.digitaloceanspaces.com^
@@ -118666,6 +118753,7 @@
 ||rummp.com^
 ||rummyaffiliates.com^
 ||rumneywhity.com^
+||rumormillnews.com^
 ||rumorpoint.com^
 ||rumporn.com^
 ||rumstat-01.cdnvideo.ru^
@@ -118734,6 +118822,7 @@
 ||rupornohub.info^
 ||rupornosex.com^
 ||ruptionverst.space^
+||ruptly.tv^
 ||ruqwgb.icu^
 ||rural-patience.com^
 ||rural-report.pro^
@@ -119766,6 +119855,7 @@
 ||samvaulter.com^
 ||samvinva.info^
 ||san-dast.net^
+||sana.sy^
 ||sanableschuss.top^
 ||sanailesfetiche.blogspot.com^
 ||sanalytics.allianz-assistance.co.uk^
@@ -120516,6 +120606,7 @@
 ||scrapebust.com^
 ||scrapembarkarms.com^
 ||scrapesleep.com^
+||scrapetv.com^
 ||scrapitsoftware.com^
 ||scrapper-site.net^
 ||scratch2cash.com^
@@ -124916,6 +125007,7 @@
 ||sgtm.sefamerve.com^
 ||sgtm.simoahava.com^
 ||sgtm.t-mobile.com^
+||sgtreport.com^
 ||sgtus1-excel-telemetry-vip.officeapps.live.com^
 ||sgtus1-powerpoint-telemetry-vip.officeapps.live.com^
 ||sgtus1-word-telemetry-vip.officeapps.live.com^
@@ -125453,6 +125545,7 @@
 ||shockingteens.pro^
 ||shockynews.com^
 ||shodaisy.com^
+||shoebat.com^
 ||shoebuy.com^
 ||shoecamedmghm.info^
 ||shoeingneurone.com^
@@ -126629,6 +126722,7 @@
 ||skelpedwiney.website^
 ||skenaiaefaldy.com^
 ||skenedomains.digital^
+||skeptiko.com^
 ||sketbhang.guru^
 ||sketchdroughtregional.com^
 ||sketchflutter.com^
@@ -130152,6 +130246,7 @@
 ||spurtindulge.com^
 ||spurttucky.website^
 ||sputnik1.ru^
+||sputniknews.com^
 ||spwdfr38rg.ru^
 ||spy26.com^
 ||spyarsenal.com^
@@ -131176,6 +131271,7 @@
 ||statementsheep.com^
 ||statementsnellattenuate.com^
 ||statementspuff.com^
+||stateofthenation2012.com^
 ||statesbenediction.com^
 ||statesmanchosen.com^
 ||statesmanimpetuousforemost.com^
@@ -134566,7 +134662,6 @@
 ||t.counter.dev^
 ||t.csurams.com^
 ||t.cubuffs.com^
-||t.dailycaller.com^
 ||t.dailymail.co.uk^
 ||t.deepnote.com^
 ||t.defector.com^
@@ -137566,6 +137661,7 @@
 ||thealtening.com^
 ||theamateurporno.com^
 ||theamateurtube.com^
+||theamericanindependent.wordpress.com^
 ||theamericansurvey.com^
 ||theanalsource.com^
 ||theanatomyshop.com^
@@ -137608,6 +137704,7 @@
 ||thebitchgirls.blogspot.com^
 ||theblackalley.com^
 ||theblacklist.org^
+||theblacksphere.net^
 ||thebondagefiles.com^
 ||theboobsblog.com^
 ||thebrave.io^
@@ -137664,7 +137761,9 @@
 ||thedoctopdf.com^
 ||thedoujin.com^
 ||thedrughost.com^
+||theduran.com^
 ||theechugnie.com^
+||theeconomiccollapseblog.com^
 ||theefiwu.net^
 ||theehouho.xyz^
 ||theekedgleamed.com^
@@ -137704,6 +137803,7 @@
 ||thefappeningtop.com^
 ||thefastpush.com^
 ||thefatherofsalmon.com^
+||thefederalistpapers.org^
 ||thefenceanddeckguys.com^
 ||thefilter.com^
 ||thefinanceadvice.com^
@@ -137715,6 +137815,7 @@
 ||thefreecamsecret.com^
 ||thefreehitcounter.com^
 ||thefreepornsite.blogspot.com^
+||thefreethoughtproject.com^
 ||thefreshposts.com^
 ||theftcontractorphysique.com^
 ||theftreconcilepsychopath.com^
@@ -137812,6 +137913,7 @@
 ||themancav.com^
 ||themarketingadvice.com^
 ||themarketiq.com^
+||themarshallreport.wordpress.com^
 ||themasksearch.com^
 ||themasturbationstation.blogspot.com^
 ||thematicalaste.info^
@@ -137832,6 +137934,9 @@
 ||themig.com^
 ||themilf.net^
 ||themilfmovies.com^
+||themillenniumreport.com^
+||themindunleashed.com^
+||themindunleashed.org^
 ||themingmidland.top^
 ||themodels.com.br^
 ||themodernquiltguild-dot-yamm-track.appspot.com^
@@ -137843,6 +137948,7 @@
 ||themselvesafloatmirth.com^
 ||themselvesbike.com^
 ||themselvestypewriter.com^
+||themuslimissue.wordpress.com^
 ||thenceafeard.com^
 ||thenceextremeeyewitness.com^
 ||thencemutinyhamburger.com^
@@ -137850,6 +137956,7 @@
 ||thench.net^
 ||thenetwork18.com^
 ||thenevadastore.com^
+||thenewinquiry.com^
 ||thenewporn.com^
 ||thenewstreams.com^
 ||thenicejournal.com^
@@ -137964,6 +138071,7 @@
 ||thequeenofpink.blogspot.com^
 ||thequickbooksteam.intuit.ca^
 ||thequin.ai^
+||theracketreport.com^
 ||therape.net^
 ||theraped.net^
 ||therapistcrateyield.com^
@@ -137993,6 +138101,7 @@
 ||therelimitless.com^
 ||theremployeesi.info^
 ||thereporn.com^
+||thereporterz.com^
 ||therequire.biz^
 ||thereshotowner.com^
 ||theresults.net^
@@ -138011,6 +138120,7 @@
 ||thesafeporn.com^
 ||thesafersearch.com^
 ||thesafesearch.net^
+||thesaker.is^
 ||thesauceftw2.blogspot.com^
 ||thescads.com^
 ||thescreams.net^
@@ -138050,6 +138160,7 @@
 ||thesocialsexnetwork.com^
 ||thespankingblog.com^
 ||thespatialists.com^
+||thespiritscience.net^
 ||thespybubble.com^
 ||thestacks.deadspin.com^
 ||thestat.net^
@@ -138088,6 +138199,7 @@
 ||thetrendytales.com^
 ||thetreuntalle.com^
 ||thetrevorproject-dot-yamm-track.appspot.com^
+||thetruthseeker.co.uk^
 ||thetruthspy.com^
 ||thetwinks.net^
 ||theundergroundclub.net^
@@ -138206,6 +138318,7 @@
 ||thirdpresence.com^
 ||thirdreasoncomplex.com^
 ||thirdrespect.com^
+||thirdworldtraveler.com^
 ||thirstymag.com^
 ||thirstyswing.com^
 ||thirstytwig.com^
@@ -138336,6 +138449,7 @@
 ||thoughtlessindeedopposition.com^
 ||thoughtlessknot.com^
 ||thoughtmetric.io^
+||thoughtoffense.wordpress.com^
 ||thoupsuk.net^
 ||thouptos.net^
 ||thoursand.com^
@@ -144992,6 +145106,7 @@
 ||tractusoutsum.com^
 ||tracyplayers.digital^
 ||tradbypass.com^
+||tradcatknight.blogspot.com^
 ||trade-acs.m.taobao.com^
 ||trade46-q.com^
 ||tradeadexchange.com^
@@ -146790,6 +146905,7 @@
 ||truenakedbabes.com^
 ||truenat.bid^
 ||truepoker.com^
+||truepundit.com^
 ||truepurenudism.com^
 ||truepush.com^
 ||trueroas.io^
@@ -146811,6 +146927,7 @@
 ||trummomo.me^
 ||trummomo.pro^
 ||trumops.com^
+||trump.news^
 ||trumperica.io^
 ||trumpia.com^
 ||trumppuffy.com^
@@ -147937,6 +148054,7 @@
 ||twistyscash.com^
 ||twistysnetwork.com^
 ||twitch-nude.com^
+||twitchy.com^
 ||twitcker.com^
 ||twitcount.com^
 ||twiter.com^
@@ -148438,6 +148556,7 @@
 ||uflowx.com^
 ||uflybplr.xyz^
 ||ufodns.com^
+||ufoholic.com^
 ||ufosdk.baidu.com^
 ||ufouxbwn.com^
 ||ufpcdn.com^
@@ -148961,6 +149080,7 @@
 ||uncleffaan.com^
 ||unclehem.com^
 ||uncleoscar.com^
+||unclesamsmisguidedchildren.com^
 ||unclesnewspaper.com^
 ||unclevids.com^
 ||unclogslenis.top^
@@ -149927,6 +150047,7 @@
 ||us.acedirect.net^
 ||us.amdevsdsp.org^
 ||us.api.micloud.xiaomi.net^
+||us.blastingnews.com^
 ||us.cdpbeacon.lgtvcommon.com^
 ||us.cdpsvc.lgtvcommon.com^
 ||us.dspplace.com^
@@ -150001,6 +150122,7 @@
 ||usage.seibert-media.io^
 ||usageanalytics.coveo.com^
 ||usageultra.com^
+||usahitman.com^
 ||usainoad.net^
 ||usamerica.shop^
 ||usancesbundt.top^
@@ -150177,6 +150299,7 @@
 ||uss-pid.lenovomm.com^
 ||usselftarocco.com^
 ||ussive.com^
+||usslibertyveterans.org^
 ||ussolutions.equifax.com^
 ||ussord.com^
 ||usstgecho.internetat.tv^
@@ -150197,6 +150320,7 @@
 ||usuarios-online.com^
 ||usucaptlardoon.life^
 ||usug.baidu.com^
+||usuncut.com^
 ||usurerspoind.life^
 ||usurertramped.guru^
 ||usurv.com^
@@ -150575,6 +150699,7 @@
 ||vacature.com^
 ||vaccinationinvalidphosphate.com^
 ||vaccinationwear.com^
+||vaclib.org^
 ||vacuomedogeys.com^
 ||vacwrite.com^
 ||vadiaecorno.blogspot.com^
@@ -152122,6 +152247,7 @@
 ||viewyentreat.guru^
 ||vifog.com^
 ||vifzrf.xyz^
+||vigilantcitizen.com^
 ||vignerez.net^
 ||vignette.com^
 ||vigo69.com^
@@ -152498,6 +152624,7 @@
 ||viralands.com^
 ||viralbeat.com^
 ||viralbokep.com^
+||viralcocaine.com^
 ||viralcpm.com^
 ||viraldong.tv^
 ||viralesthree.top^
@@ -154127,6 +154254,7 @@
 ||waterboa.nighttrain.co^
 ||watercolourboy.blogspot.com^
 ||waterfallblessregards.com^
+||waterfordwhispersnews.com^
 ||waterfrontmedia.com^
 ||watergate.tv^
 ||waterhurtserpent.com^
@@ -154325,6 +154453,7 @@
 ||weaponvelocitypredator.com^
 ||wearablefrequencydevices.com^
 ||wearcamp.com^
+||wearechange.org^
 ||wearedivide-dot-yamm-track.appspot.com^
 ||wearehairy.com^
 ||wearehairyfree.com^
@@ -155829,6 +155958,7 @@
 ||wikipu.wiki^
 ||wikisexguide.com^
 ||wikismut.com^
+||wikispooks.com^
 ||wikplayer.com^
 ||wikpuncars.com^
 ||wilafhhbdyewgbd.xyz^
@@ -157230,9 +157360,12 @@
 ||www.a-shemaletube.com^
 ||www.abby-winters.net^
 ||www.abbywinters1.com^
+||www.abeldanger.net^
 ||www.abestporno.com^
+||www.abovetopsecret.com^
 ||www.acasadasbrasileirinhas.com.br^
 ||www.activeduty.com^
+||www.activistpost.com^
 ||www.actualindiansex.com^
 ||www.adam4adam.com^
 ||www.adelinelafouine.com^
@@ -157250,6 +157383,7 @@
 ||www.adulttime.com^
 ||www.adultvideos.pro^
 ||www.adultvids.pro^
+||www.ae911truth.org^
 ||www.aerisdies.com^
 ||www.afamousporn.com^
 ||www.afatporn.com^
@@ -157286,8 +157420,10 @@
 ||www.amateurspornvideos.com^
 ||www.amateurxx.org^
 ||www.amator-szex.hu^
+||www.americanpatriotdaily.com^
 ||www.amilova.com^
 ||www.amovs.pro^
+||www.amren.com^
 ||www.anaalpornofilms.nl^
 ||www.anaaltube.be^
 ||www.anal-szex.hu^
@@ -157297,10 +157433,13 @@
 ||www.analfuckthrills.com^
 ||www.analmom.com^
 ||www.analporn.name^
+||www.ancient-code.com^
+||www.ancreport.com^
 ||www.angelslove.xxx^
 ||www.animalchange.eu^
 ||www.animefurry.com^
 ||www.antarvasnaclips.com^
+||www.antiwar.com^
 ||www.anysextube.com^
 ||www.ao-huren.to^
 ||www.apopularporn.com^
@@ -157367,6 +157506,7 @@
 ||www.bangbrospics.com^
 ||www.barebackthathole.com^
 ||www.barelist.com^
+||www.barenakedislam.com^
 ||www.bbcparadise.com^
 ||www.bbwclipsm.com^
 ||www.bbwclipsw.com^
@@ -157416,11 +157556,13 @@
 ||www.bigtitsporn.icu^
 ||www.bikinifanatics.com^
 ||www.bitchyx.it^
+||www.bizpacreview.com^
 ||www.bjraw.com^
 ||www.blackboyaddictionz.com^
 ||www.blackdiamoond.net^
 ||www.blackownedsissy.com^
 ||www.blacktowhite.net^
+||www.blastingnews.com^
 ||www.blendporn.com^
 ||www.blissporn.com^
 ||www.bluvista.tv^
@@ -157449,6 +157591,7 @@
 ||www.braziltgirls.xxx^
 ||www.breedbus.com^
 ||www.breedme.com^
+||www.breitbart.com^
 ||www.brizy.site^
 ||www.bronzeporntube.com^
 ||www.brutalpickups.com^
@@ -157464,6 +157607,7 @@
 ||www.camwhoresporn.com^
 ||www.camwhorez.tv^
 ||www.cartoonxxxpic.com^
+||www.centerforsecuritypolicy.org^
 ||www.centervillage.co.jp^
 ||www.championsverige.com.se^
 ||www.chaosmen.com^
@@ -157484,6 +157628,7 @@
 ||www.classicretropornstars.com^
 ||www.classicworldp.com^
 ||www.classificadosxbr.com^
+||www.climatedepot.com^
 ||www.closedmyvideo.com^
 ||www.cloudisexy.com^
 ||www.cloudmeadowgame.com^
@@ -157493,8 +157638,10 @@
 ||www.clubofsex.com^
 ||www.clubsweethearts.com^
 ||www.cmnm.net^
+||www.coasttocoastam.com^
 ||www.cockcrazyamateurs.com^
 ||www.cocoa-soft.net^
+||www.collective-evolution.com^
 ||www.collector-web.com^
 ||www.colorclimax.com^
 ||www.comixharem.com^
@@ -157502,6 +157649,7 @@
 ||www.comusume.net^
 ||www.coolshemale.com^
 ||www.coolshemaleporn.com^
+||www.corbettreport.com^
 ||www.coverporn.com^
 ||www.crazysexclips.com^
 ||www.creampieforgranny.com^
@@ -157521,15 +157669,20 @@
 ||www.danskepiger.dk^
 ||www.dapfanatics.com^
 ||www.daringsexhd.com^
+||www.darkpolitricks.com^
 ||www.dasdas.jp^
 ||www.dasistporno.com^
 ||www.data18.com^
 ||www.datadoghq-browser-agent.com^
+||www.davidwolfe.com^
 ||www.dayanaperezsosa.com.co^
+||www.dcclothesline.com^
+||www.debunkingskeptics.com^
 ||www.deepswap.ai^
 ||www.defloration.co.uk^
 ||www.deinesexfilme.com^
 ||www.deinesexvideos.com^
+||www.derfmagazine.com^
 ||www.desikahani2.net^
 ||www.desiporn24.com^
 ||www.desitales2.com^
@@ -157548,6 +157701,7 @@
 ||www.dirtyindianx.cc^
 ||www.dirtysancheztube.com^
 ||www.dirtytube.com^
+||www.disclose.tv^
 ||www.divinemates.co.uk^
 ||www.dlouha-videa.eu^
 ||www.dnpst.eu^
@@ -157563,6 +157717,7 @@
 ||www.dpfanatics.com^
 ||www.dreamxxxhd.com^
 ||www.dudesraw.com^
+||www.duffelblog.com^
 ||www.dvd-x.porn^
 ||www.dzentube.com^
 ||www.eastboys.com^
@@ -157579,6 +157734,7 @@
 ||www.elegantraw.com^
 ||www.elktube.com^
 ||www.elog-ch.net^
+||www.endtime.com^
 ||www.eporner.mobi^
 ||www.eporner.video^
 ||www.eroclips.org^
@@ -157613,6 +157769,8 @@
 ||www.exotickenya.com^
 ||www.exoticsouthafrica.com^
 ||www.explicitinterracial.com^
+||www.express.co.uk^
+||www.eyeopening.info^
 ||www.facialsfever.com^
 ||www.familydick.com^
 ||www.familylikestofuck.com^
@@ -157695,6 +157853,7 @@
 ||www.freeteen.sex^
 ||www.freetour.com^
 ||www.freeusemilf.com^
+||www.freewoodpost.com^
 ||www.freexxx.yachts^
 ||www.freexxxsextube.com^
 ||www.freexxxvideos.su^
@@ -157708,6 +157867,7 @@
 ||www.freshporninc.com^
 ||www.freshpornworld.com^
 ||www.freshteenporn.com^
+||www.frontpagemag.com^
 ||www.fsiblog4.com^
 ||www.fuckbah.pro^
 ||www.fuckcelebs.net^
@@ -157731,6 +157891,7 @@
 ||www.futasentaisquad.com^
 ||www.futuredarkly.com^
 ||www.g2h.tw^
+||www.gaia.com^
 ||www.galleryhost.com^
 ||www.gangbang.hu^
 ||www.gapehub.com^
@@ -157773,12 +157934,14 @@
 ||www.girlspmovies.com^
 ||www.girlsreview.nl^
 ||www.glayz.co.jp^
+||www.globalpossibilities.org^
 ||www.gloryholesecrets.com^
 ||www.gloryquest.co.jp^
 ||www.gloryshole.com^
 ||www.glosstightsglamour.com^
 ||www.gme-inc.net^
 ||www.goblackporn.com^
+||www.godlikeproductions.com^
 ||www.gogomovs.com^
 ||www.goldendesi.com^
 ||www.gome.com.cn^
@@ -157786,6 +157949,7 @@
 ||www.goragay.com^
 ||www.gradeuptube.com^
 ||www.gratis-muschibilder.com^
+||www.greanvillepost.com^
 ||www.groobyvr.com^
 ||www.groupbanged.com^
 ||www.groupmams.com^
@@ -157883,6 +158047,7 @@
 ||www.hq-jav.com^
 ||www.hqtubebank.com^
 ||www.hubporn.click^
+||www.humortimes.com^
 ||www.humphole.com^
 ||www.hunqz.com^
 ||www.hunter-pp.jp^
@@ -157931,7 +158096,11 @@
 ||www.indies-av.co.jp^
 ||www.indo18.com^
 ||www.indoporn.mobi^
+||www.infiniteunknown.net^
 ||www.influencersgonewild.video^
+||www.informationclearinghouse.info^
+||www.informationliberation.com^
+||www.inquisitr.com^
 ||www.ins-dream.com^
 ||www.intensx.com^
 ||www.internet.apps.samsung.com^
@@ -157955,6 +158124,7 @@
 ||www.javmimi.com^
 ||www.javqd.com^
 ||www.javwhores.com^
+||www.jihadwatch.org^
 ||www.jimslip.com^
 ||www.jizzbomb.com^
 ||www.jizzoid.com^
@@ -158015,6 +158185,8 @@
 ||www.liboggirls.net^
 ||www.libporn.pro^
 ||www.licdn.com^
+||www.lifezette.com^
+||www.liftable.com^
 ||www.lindylist.org^
 ||www.lingeriequeens.com^
 ||www.livechat.sex^
@@ -158072,6 +158244,7 @@
 ||www.megasexfilme.com^
 ||www.meinemuschibilder.com^
 ||www.meinyouporn.com^
+||www.mercola.com^
 ||www.mfvideobrazil.com^
 ||www.mgstage.com^
 ||www.milawka.com^
@@ -158090,6 +158263,7 @@
 ||www.momswap.com^
 ||www.monstersofcock.com^
 ||www.moodyz.com^
+||www.moonofalabama.org^
 ||www.morazzia.com^
 ||www.morritastube.xxx^
 ||www.motorsxxx.com^
@@ -158140,15 +158314,20 @@
 ||www.nanpa-japan.jp^
 ||www.nastyporn.pro^
 ||www.nataliekash.com^
+||www.nationalenquirer.com^
 ||www.naturalhigh.co.jp^
+||www.naturalnews.com^
 ||www.needgayporn.com^
 ||www.negoziopornx.com^
 ||www.neighbourly.co.nz^
 ||www.nekocreme.com^
+||www.neonnettle.com^
 ||www.nerdporn.com.es^
 ||www.net.kg^
 ||www.newindianfuck.com^
 ||www.newpsite.com^
+||www.newsbusters.org^
+||www.newsmax.com^
 ||www.next11.co.jp^
 ||www.nextdoortwink.com^
 ||www.nextpicturez.com^
@@ -158162,6 +158341,7 @@
 ||www.nookies.com^
 ||www.novinhavideosporno.com^
 ||www.novoporn.com^
+||www.nowtheendbegins.com^
 ||www.nudemy.com^
 ||www.nudesnaweb.com.br^
 ||www.nuoga.eu^
@@ -158194,15 +158374,19 @@
 ||www.p-jade.com^
 ||www.p4gb.com^
 ||www.paidpornguide.com^
+||www.pakalertpress.com^
 ||www.pakistanisexporn.com^
+||www.palmerreport.com^
 ||www.pandorium.online^
 ||www.parodypass.com^
 ||www.partycelebs.com^
 ||www.partyporn.co.il^
 ||www.passionaccess.com^
 ||www.patientsrevenge.com^
+||www.paulcraigroberts.org^
 ||www.penispictures.com^
 ||www.peniszeigen.com^
+||www.peoplemagazine.co.za^
 ||www.perfecttube.pro^
 ||www.perverse-frage.com^
 ||www.pervertium.com^
@@ -158226,6 +158410,7 @@
 ||www.playindiansex.com^
 ||www.plum-web.com^
 ||www.pnptube.com^
+||www.politicususa.com^
 ||www.porn-300.com^
 ||www.porn-3d.net^
 ||www.porn-booking.com^
@@ -158394,10 +158579,14 @@
 ||www.povaddict.net^
 ||www.povlife.com^
 ||www.povmovies.com^
+||www.powerlineblog.com^
+||www.pravda.ru^
+||www.pravdareport.com^
 ||www.pregnantandfucked.com^
 ||www.premium-beauty.com^
 ||www.premiumindian.com^
 ||www.premiumpornlist.com^
+||www.presstv.ir^
 ||www.prestige-av.com^
 ||www.prettyporn.mobi^
 ||www.privatesexgeschichten.com^
@@ -158429,8 +158618,10 @@
 ||www.realpornstarsvr.com^
 ||www.redditinc.com^
 ||www.redditstatic.com^
+||www.redflagnews.com^
 ||www.redporn.com.es^
 ||www.redporn.pro^
+||www.redstate.com^
 ||www.redtube.gives^
 ||www.redtube.pink^
 ||www.redtube.support^
@@ -158438,12 +158629,14 @@
 ||www.redxtube.info^
 ||www.registeramo.com^
 ||www.reifetube.com^
+||www.renegadetribune.com^
 ||www.retro-sex.net^
 ||www.retromales.com^
 ||www.ricostrongxxx.com^
 ||www.rocket-inc.net^
 ||www.rookie-av.jp^
 ||www.roughlesbiansex.com^
+||www.rt.com^
 ||www.ruby-av.com^
 ||www.runkkaa.com^
 ||www.runningshoessverige.com^
@@ -158546,10 +158739,13 @@
 ||www.shelovesblack.com^
 ||www.shemalepornq.com^
 ||www.sheplaysalone.com^
+||www.shiftfrequency.com^
 ||www.shitagi.org^
 ||www.shoplyftermylf.com^
 ||www.shqfree.com^
+||www.shtfplan.com^
 ||www.silkengirl.com^
+||www.silverdoctors.com^
 ||www.sinfulxxx.net^
 ||www.sirina.tv^
 ||www.sislovesmexxx.com^
@@ -158567,6 +158763,7 @@
 ||www.sofcams.com^
 ||www.solopornoitaliano.it^
 ||www.solutions.prudential.com^
+||www.sott.net^
 ||www.soulgen.ai^
 ||www.southernsins.com^
 ||www.southernstrokes.com^
@@ -158587,6 +158784,7 @@
 ||www.summersinners.com^
 ||www.super.cz^
 ||www.superhq.net^
+||www.survivopedia.com^
 ||www.susserporno.com^
 ||www.svensksexfilm.com^
 ||www.svideos.pro^
@@ -158638,10 +158836,25 @@
 ||www.tgirljapanhardcore.com^
 ||www.tgirls.xxx^
 ||www.thebestporn.com^
+||www.theblaze.com^
+||www.thecommonsenseshow.com^
+||www.thedailybell.com^
+||www.thedailymash.co.uk^
+||www.thegatewaypundit.com^
 ||www.theguysite.com^
+||www.thelibertybeacon.com^
+||www.thenewamerican.com^
+||www.theoccidentalobserver.net^
+||www.thepoke.co.uk^
+||www.thepoliticalinsider.com^
 ||www.thepornbang.com^
 ||www.thepornbunny.com^
+||www.therebel.media^
 ||www.theromanceseries.com^
+||www.therussophile.org^
+||www.theshovel.com.au^
+||www.thesleuthjournal.com^
+||www.thespoof.com^
 ||www.thevirtualsexreview.com^
 ||www.thotsblog.com^
 ||www.thundercock.com^
@@ -158654,6 +158867,7 @@
 ||www.titspornq.com^
 ||www.titstok.org^
 ||www.tma.co.jp^
+||www.tmn.today^
 ||www.tnapics.com^
 ||www.to-satsu.com^
 ||www.tollensexgeschichten.net^
@@ -158662,6 +158876,7 @@
 ||www.topasianteens.com^
 ||www.topchubbyporn.com^
 ||www.topescort.bg^
+||www.topinfopost.com^
 ||www.topmatureporn.com^
 ||www.topnewp.com^
 ||www.toporientalporn.com^
@@ -158679,6 +158894,10 @@
 ||www.transgasm.com^
 ||www.trendyporno.com^
 ||www.tropocollagen.eu^
+||www.trueactivist.com^
+||www.trunews.com^
+||www.truth-out.org^
+||www.truthdig.com^
 ||www.truxvideos.com^
 ||www.truyen-hentai.fr^
 ||www.truyen-hentai.ru^
@@ -158736,12 +158955,16 @@
 ||www.unitedfuck-pornos.com^
 ||www.unitedfuck.org^
 ||www.universoerotico.com^
+||www.unz.com^
 ||www.upshemaleporn.com^
 ||www.upskirtglamour.com^
+||www.usanewsflash.com^
+||www.usasupreme.com^
 ||www.uvporn.com^
 ||www.uxxxi.com^
 ||www.v-av.com^
 ||www.vagosex.xxx^
+||www.vdare.com^
 ||www.vedettes-peruanas.com^
 ||www.veecinema.com^
 ||www.vegascastingcouch.com^
@@ -158749,6 +158972,7 @@
 ||www.vejasskor.com^
 ||www.vergineporno.com^
 ||www.verytwink.com^
+||www.veteranstoday.com^
 ||www.video-sexe-viol.info^
 ||www.videojapanporno.com^
 ||www.videolucah.net^
@@ -158770,8 +158994,10 @@
 ||www.vintageptv.com^
 ||www.vipporns.com^
 ||www.viralsexvideos.com^
+||www.viralthread.com^
 ||www.virtualxporn.com^
 ||www.vivusporn.com^
+||www.voltairenet.org^
 ||www.voyeurxxxsex.com^
 ||www.vrouw-sex.be^
 ||www.vrpornhome.com^
@@ -158781,6 +159007,7 @@
 ||www.vworldporn.com^
 ||www.waap.co.jp^
 ||www.wakawasha.com^
+||www.wakingtimes.com^
 ||www.wankzporn.com^
 ||www.wanz-factory.com^
 ||www.watchdesisex.com^
@@ -158788,10 +159015,12 @@
 ||www.webpshow.com^
 ||www.welcomix.com^
 ||www.wellsextube.info^
+||www.westernjournalism.com^
 ||www.wetandpuffy.com^
 ||www.wetbabesblog.com^
 ||www.wetchubbyporn.com^
 ||www.wetpussytube.com^
+||www.whatreallyhappened.com^
 ||www.whoresinpublic.com^
 ||www.wien-girls.at^
 ||www.wifewantstoplay.com^
@@ -158802,6 +159031,7 @@
 ||www.williamhiggins.com^
 ||www.wixvorlagen.tv^
 ||www.wmyporn.com^
+||www.wnd.com^
 ||www.worldclassicp.com^
 ||www.worldindianp.com^
 ||www.worldpornguru.com^
@@ -158960,6 +159190,7 @@
 ||www.youjizz.estate^
 ||www.youjizz.plus^
 ||www.youjizz.sale^
+||www.youngcons.com^
 ||www.youngfreeteens.com^
 ||www.youngperps.com^
 ||www.youngporn.me^
@@ -158977,8 +159208,11 @@
 ||www.yuvideos.com^
 ||www.ywupscsff.com^
 ||www.zakulisi.cz^
+||www.zambianobserver.com^
 ||www.zavatrash.xxx^
 ||www.zbeng.co.il^
+||www.zeppfeed.com^
+||www.zerohedge.com^
 ||www.zickenstube.ch^
 ||www.zooskoolvideos.com^
 ||www.zorglist.com^
