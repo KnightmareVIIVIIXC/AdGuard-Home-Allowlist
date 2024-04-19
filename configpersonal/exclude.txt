@@ -20,3 +20,4 @@ ff02::3 ip6-allhosts
 ||urbandictionary.com^
 ||deviantart.com^
 ||giphy.com^
+||edgesuite.net^
