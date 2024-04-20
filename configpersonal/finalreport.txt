@@ -1,1 +1,1 @@
-../../FBAIOBuildtools/dead/deadscan/finalreport.txt
+../../deadhosts/dead/finalreport.txt
