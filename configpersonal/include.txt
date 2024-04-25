@@ -16,15 +16,8 @@ apple.com
 aaplimg.com
 icloud.com
 hulu.com
-netflix.com
-netflix.net
-nflxext.com
-nflximg.net
-nflxso.net
-nflxvideo.net
 hbomax.com
 max.com
-chat.google.com
 textsecure-service.whispersystems.org
 bere.al
 bereal.com
