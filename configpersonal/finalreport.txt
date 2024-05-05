@@ -1,1 +1,1 @@
-../../deadhosts/dead/finalreport.txt
+../../deadhosts/deadscan/finalreport.txt
