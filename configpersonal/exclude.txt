@@ -14,10 +14,10 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 *@@*
-||jsdelivr.map.fastly.net^
-||bitbucket.org^
 ||amazonaws.com^
-||urbandictionary.com^
+||bitbucket.org^
 ||deviantart.com^
-||giphy.com^
 ||edgesuite.net^
+||giphy.com^
+||jsdelivr.map.fastly.net^
+||urbandictionary.com^
