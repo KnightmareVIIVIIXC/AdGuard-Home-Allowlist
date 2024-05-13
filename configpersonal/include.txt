@@ -32,6 +32,7 @@
 ||tumblr.com^
 ||videoads.hotstar.com^
 ||vs.hotstar.com^
+||ww25.twitterr.com^
 ||101com.com^
 ||101order.com^
 ||140proof.com^
