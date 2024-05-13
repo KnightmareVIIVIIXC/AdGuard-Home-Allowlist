@@ -21,7 +21,8 @@ ff02::3 ip6-allhosts
 ||giphy.com^
 ||jsdelivr.map.fastly.net^
 ||urbandictionary.com^
-||*.googlevideo.com^
-||*.googlevideo^"
-||*.google^
-||*.youtube-nocookie.com^
+! Disabled
+! ||*.googlevideo.com^
+! ||*.googlevideo^
+! ||*.google^
+! ||*.youtube-nocookie.com^
