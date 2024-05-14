@@ -18,6 +18,7 @@ ff02::3 ip6-allhosts
 ||bitbucket.org^
 ||deviantart.com^
 ||edgesuite.net^
+||eff.org^
 ||giphy.com^
 ||jsdelivr.map.fastly.net^
 ||urbandictionary.com^
