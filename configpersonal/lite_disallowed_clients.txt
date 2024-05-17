@@ -1,6 +1,6 @@
 !
 ! Title: Lite Disallowed Clients
-! Last modified: 2024-05-16T23:50:40.012Z
+! Last modified: 2024-05-17T10:08:50.686Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
