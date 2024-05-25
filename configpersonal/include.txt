@@ -6,6 +6,7 @@
 ||bere.al^
 ||bereal.com^
 ||bifrost-api.hotstar.com^
+||clevertap-prod.com^
 ||cws-hotstar.conviva.com^
 ||ecs.office.com^
 ||events-analytics.hotstar.com^
@@ -15,8 +16,9 @@
 ||logs.hotstar.com^
 ||lostallhope.com^
 ||mercury.akamaized.net^
-||s.youtube.com^
+||rayjump.com^
 ||sanctioned-suicide.net^
+||sensic.net^
 ||service.hotstar.com^
 ||settings-analytics.hotstar.com^
 ||sunwatermovementfoodandsleep.com^
