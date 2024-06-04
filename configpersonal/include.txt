@@ -10,6 +10,7 @@
 ||cws-hotstar.conviva.com^
 ||ecs.office.com^
 ||events-analytics.hotstar.com^
+||goggle.com^
 ||fp-analytics.hotstar.com^
 ||hb-analytics.hotstar.com^
 ||hesads.akamaized.net^
