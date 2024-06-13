@@ -29,3 +29,4 @@
 ||videoads.hotstar.com^
 ||vs.hotstar.com^
 ||ww25.twitterr.com^
+||yahoo.com^
