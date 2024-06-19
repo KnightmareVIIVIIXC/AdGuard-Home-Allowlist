@@ -24,3 +24,4 @@ ff02::3 ip6-allhosts
 ||jsdelivr.map.fastly.net^
 ||urbandictionary.com^
 ||*.developerdan.com^
+||google.com^
