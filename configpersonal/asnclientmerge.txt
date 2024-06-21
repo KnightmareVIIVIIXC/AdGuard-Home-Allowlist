@@ -1,7 +1,7 @@
 !
 ! Title: ASNs and Disallowed Clients Merged
 ! Description: Paste entries into disallowed clients in Adguard DNS
-! Last modified: 2024-06-21T03:14:58.053Z
+! Last modified: 2024-06-21T13:27:50.896Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -543,6 +543,7 @@ AS61879
 AS62864
 AS63881
 AS64425
+AS132827
 AS132930
 AS133488
 AS133668
