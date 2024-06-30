@@ -6,6 +6,7 @@
 ||bere.al^
 ||bereal.com^
 ||bifrost-api.hotstar.com^
+||bing.com^
 ||clevertap-prod.com^
 ||cws-hotstar.conviva.com^
 ||ecs.office.com^
