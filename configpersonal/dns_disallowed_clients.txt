@@ -1,6 +1,6 @@
 !
 ! Title: Disallowed Clients
-! Last modified: 2024-06-30T13:00:10.037Z
+! Last modified: 2024-06-30T13:49:00.319Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
