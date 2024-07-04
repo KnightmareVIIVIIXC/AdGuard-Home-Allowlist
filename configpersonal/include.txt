@@ -5,6 +5,7 @@
 ||appsflyersdk.com^
 ||bere.al^
 ||bereal.com^
+||bing.com^
 ||clevertap-prod.com^
 ||coral.ai^
 ||cws-hotstar.conviva.com^
@@ -24,6 +25,7 @@
 ||rayjump.com^
 ||sanctioned-suicide.net^
 ||sensic.net^
+||spotify.com^
 ||sunwatermovementfoodandsleep.com^
 ||textsecure-service.whispersystems.org^
 ||tiltbrush.com^
@@ -32,3 +34,4 @@
 ||version.server^
 ||wck.org^
 ||ww25.twitterr.com^
+||yahoo.com^
