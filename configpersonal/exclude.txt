@@ -15,6 +15,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 *@@*
 .^
+developerdan.com^
 ||akamai.net^
 ||amazonaws.com^
 ||bitbucket.org^
@@ -24,5 +25,4 @@ ff02::3 ip6-allhosts
 ||giphy.com^
 ||jsdelivr.map.fastly.net^
 ||urbandictionary.com^
-||*.developerdan.com^
 ||google.com^

@@ -1,6 +1,4 @@
 ||1x1.cz^
-||aaplimg.com^
-||apple.com^
 ||appsflyer.com^
 ||appsflyersdk.com^
 ||bere.al^
