@@ -3,12 +3,10 @@
 ||appsflyersdk.com^
 ||bere.al^
 ||bereal.com^
-||bing.com^
 ||clevertap-prod.com^
 ||coral.ai^
 ||cws-hotstar.conviva.com^
 ||ecs.office.com^
-||example.org^
 ||goggle.com^
 ||hesads.akamaized.net^
 ||hotstar.com^
@@ -32,4 +30,3 @@
 ||version.server^
 ||wck.org^
 ||ww25.twitterr.com^
-||yahoo.com^
