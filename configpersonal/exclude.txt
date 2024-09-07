@@ -25,4 +25,5 @@ developerdan.com^
 ||giphy.com^
 ||jsdelivr.map.fastly.net^
 ||urbandictionary.com^
+||jnn-pa.googleapis.com^
 ||google.com^
