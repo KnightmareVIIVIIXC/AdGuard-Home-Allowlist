@@ -97,6 +97,8 @@
 @@|az725175.vo.msecnd.net^$important
 @@|az764295.vo.msecnd.net^$important
 @@|b-ring.msedge.net^$important
+@@|bam.nr-data.net^$important
+@@|bat.bing.com^$important
 @@|beige.xboxservices.com^$important
 @@|binaries.templates.cdn.office.net^$important
 @@|bing.at^$important
@@ -183,6 +185,7 @@
 @@|dev.xbox.com^$important
 @@|devblogs.microsoft.com^$important
 @@|device.auth.xboxlive.com^$important
+@@|devtools.azureedge.net^$important
 @@|displaycatalog.mp.microsoft.com^$important
 @@|dl.delivery.mp.microsoft.com^$important
 @@|dlassets-ssl.xboxlive.com^$important
@@ -386,6 +389,7 @@
 @@|privacy.microsoft.com^$important
 @@|privacy.xboxlive.com^$important
 @@|prod-southeastasia.access-point.cloudmessaging.edge.microsoft.com^$important
+@@|prod.client.wosc.services.microsoft.com^$important
 @@|prod.rewardsplatform.microsoft.com^$important
 @@|products.office.com^$important
 @@|profile.xboxlive.com^$important
@@ -444,6 +448,7 @@
 @@|spo-ring.msedge.net^$important
 @@|spoppe-b.azureedge.net^$important
 @@|spsprodeau1.vssps.visualstudio.com^$important
+@@|static.edge.microsoftapp.net^$important
 @@|statics-*.onestore.ms^$important
 @@|statics-xbc-eas.xbox.com^$important
 @@|statics.teams.cdn.live.net^$important

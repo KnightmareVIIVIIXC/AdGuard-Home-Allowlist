@@ -27,6 +27,7 @@
 @@|analytics.tripwireinteractive.com^$important
 @@|answers.ea.com^$important
 @@|aoe.ms^$important
+@@|aoeliverelease1-api.worldsedgelink.com^$important
 @@|ap-southeast-2-storm.ubi.com^$important
 @@|apac-storm.ubi.com^$important
 @@|api*.origin.com^$important
@@ -63,6 +64,7 @@
 @@|autopatch.juno.ea.com^$important
 @@|avatars.akamai.steamstatic.com^$important
 @@|avatars.cloudflare.steamstatic.com^$important
+@@|avatars.nexusmods.com^$important
 @@|avatars.steamstatic.com^$important
 @@|b-agora-hydra-file-storage-kraken.s3.amazonaws.com^$important
 @@|banprocessor.svc.halowaypoint.com^$important
@@ -130,6 +132,8 @@
 @@|chat.gog.com^$important
 @@|checkout.ea.com^$important
 @@|checkoutshopper-live.adyen.com^$important
+@@|clan.akamai.steamstatic.com^$important
+@@|clan.steamstatic.com^$important
 @@|client-download.steampowered.com^$important
 @@|client-metrics-gateway-api.live.public.prod.tetra.fleet.ubi.com^$important
 @@|client-update.akamai.steamstatic.com^$important
@@ -167,6 +171,7 @@
 @@|counter-strike.net^$important
 @@|crash.steampowered.com^$important
 @@|crews-gta5-prod.ros.rockstargames.com^$important
+@@|crews-rdr2-prod.ros.rockstargames.com^$important
 @@|crl.certum.pl^$important
 @@|cs-rgl-prod.ros.rockstargames.com^$important
 @@|da2.gos.ea.com^$important
@@ -176,6 +181,7 @@
 @@|datarouter.ol.epicgames.com^$important
 @@|datastorage-public-service-liveegs.live.use1a.on.epicgames.com^$important
 @@|de.playstation.com^$important
+@@|desktop-config-integration.juno.ea.com^$important
 @@|desktop-config.juno.ea.com^$important
 @@|directline.botframework.com^$important
 @@|dirtybits.api.origin.com^$important
@@ -201,6 +207,7 @@
 @@|ecommerceintegration-public-service-ecomprod02.ol.epicgames.com^$important
 @@|economy.svc.halowaypoint.com^$important
 @@|egp-idsoc-proxy-prod.ol.epicgames.com^$important
+@@|egs-platform-service.store.epicgames.com^$important
 @@|email2.gog.com^$important
 @@|emapi.prm.data.ea.com^$important
 @@|embed.gog.com^$important
@@ -231,8 +238,11 @@
 @@|f4se.silverlock.org^$important
 @@|facesofgaming.com^$important
 @@|fallout.bethesda.net^$important
+@@|fallout4london.com^$important
 @@|fandom.com^$important
 @@|fast.fonts.net^$important
+@@|fastly-download.epicgames.com^$important
+@@|feed-rdr2-prod.ros.rockstargames.com^$important
 @@|feedback.nexusmods.com^$important
 @@|fellowship.services.gearboxsoftware.com^$important
 @@|file-metadata.nexusmods.com^$important
@@ -282,7 +292,9 @@
 @@|gfn.pentanet.gg^$important
 @@|gfwsl.geforce.com^$important
 @@|godofwar.playstation.com^$important
+@@|gog-cdn-fastly.gog.com^$important
 @@|gog-cdn-lumen.secure2.footprint.net^$important
+@@|gog-cdn.akamaized.net^$important
 @@|gog-statics.com^$important
 @@|gog.com^$important
 @@|gog.salesmanago.com^$important
@@ -296,6 +308,7 @@
 @@|graphql.epicgames.com^$important
 @@|groups.gameservices.ea.com^$important
 @@|gsprodblapp-*.ea.com^$important
+@@|gwent-bi-collector.gog.com^$important
 @@|halostats.svc.halowaypoint.com^$important
 @@|hardware.support.eu.playstation.com^$important
 @@|hb.imgix.net^$important
@@ -321,6 +334,7 @@
 @@|images.pcgamingwiki.com^$important
 @@|img.nvidiagrid.net^$important
 @@|inbox-gta5-prod.ros.rockstargames.com^$important
+@@|inbox-rdr2-prod.ros.rockstargames.com^$important
 @@|info.social.ea.com^$important
 @@|ingame-store.cdn.ubisoft.com^$important
 @@|international-gfe.download.nvidia.com^$important
@@ -352,6 +366,7 @@
 @@|login.gog.com^$important
 @@|login.nvgs.nvidia.com^$important
 @@|login.nvidia.com^$important
+@@|login.steampowered.com^$important
 @@|lp.gog.com^$important
 @@|ls.dtrace.nvidia.com^$important
 @@|lvlt.bioware.cdn.ea.com^$important
@@ -402,6 +417,7 @@
 @@|nexus-collections-temp.s3.*.backblazeb2.com^$important
 @@|nexus-media*.backblazeb2.com^$important
 @@|nexusmods.com^$important
+@@|nexusmods.statuspage.io^$important
 @@|nintendo.com^$important
 @@|nintendo.net^$important
 @@|notification.svc.halowaypoint.com^$important
@@ -462,6 +478,7 @@
 @@|playstation.com^$important
 @@|playstation.net^$important
 @@|pls.dyinglightgame.com^$important
+@@|posse-rdr2-prod.ros.rockstargames.com^$important
 @@|pport.gearstactics.com^$important
 @@|pr-*.data.ea.com^$important
 @@|prd.orbit.bos.ea.com^$important
@@ -471,6 +488,8 @@
 @@|priceengine-public-service-ecomprod01.ol.epicgames.com^$important
 @@|priceengine-public-service-prod.ak.epicgames.com^$important
 @@|pricing.gog.com^$important
+@@|prod-avatars.akamaized.net^$important
+@@|prod-core.ros.rockstargames.com^$important
 @@|prod-locator-cloud.rockstargames.com^$important
 @@|prod-notification-websocket.bethesda.net^$important
 @@|prod-pa.api.wbinsights.com^$important
@@ -485,8 +504,10 @@
 @@|progression2-prod.svc.gearsofwar.net^$important
 @@|proxy.novafusion.ea.com^$important
 @@|prs-gta5-prod.ros.rockstargames.com^$important
+@@|prs-rdr2-prod.ros.rockstargames.com^$important
 @@|prs-rgl-prod.ros.rockstargames.com^$important
 @@|prs55-prod.ros.rockstargames.com^$important
+@@|ps-rgl-prod.ros.rockstargames.com^$important
 @@|public-ubiservices.ubi.com^$important
 @@|public-ws-ubiservices.ubi.com^$important
 @@|pubsub-api.razerapi.com^$important
@@ -501,6 +522,7 @@
 @@|r.razer.com^$important
 @@|r5-crossplay.r5prod.stryder.respawn.com^$important
 @@|r5-pc.s3.amazonaws.com^$important
+@@|ratt-dev.juno.ea.com^$important
 @@|ratt.juno.ea.com^$important
 @@|razer-assets2.s3.amazonaws.com^$important
 @@|razerid-assets.razerzone.com^$important
@@ -542,6 +564,7 @@
 @@|share-play.cdn.ubisoft.com^$important
 @@|shared-static-prod.epicgames.com^$important
 @@|shared.akamai.steamstatic.com^$important
+@@|shared.steamstatic.com^$important
 @@|sigma.ubi.com^$important
 @@|signin.ea.com^$important
 @@|signin.rockstargames.com^$important
@@ -637,6 +660,7 @@
 @@|thumbnails.pcgamingwiki.com^$important
 @@|tiles.mapgenie.io^$important
 @@|titlestorage.bethesda.net^$important
+@@|tm-rdr2-prod.ros.rockstargames.com^$important
 @@|tm-rgl-prod.ros.rockstargames.com^$important
 @@|tos.ea.com^$important
 @@|tracking.epicgames.com^$important
@@ -652,6 +676,7 @@
 @@|ubistatic*-a.akamaihd.net^$important
 @@|ue-launcher-website-prod.ol.epicgames.com^$important
 @@|ufs*.steamcontent.com^$important
+@@|ugc-rdr2-prod.ros.rockstargames.com^$important
 @@|ugc.api.playstation.com^$important
 @@|unrealengine.com^$important
 @@|upchk.api.playstation.com^$important
@@ -669,6 +694,7 @@
 @@|useast1-public.aws-ubiservices.ubi.com^$important
 @@|users.gog.com^$important
 @@|users.nexusmods.com^$important
+@@|video.akamai.steamstatic.com^$important
 @@|video.api.playstation.com^$important
 @@|video.dl.playstation.net^$important
 @@|video.playstation.com^$important
@@ -694,6 +720,7 @@
 @@|www.dm.origin.com^$important
 @@|www.ea.com^$important
 @@|www.epicgames.com^$important
+@@|www.fallout4london.com^$important
 @@|www.fose.silverlock.org^$important
 @@|www.geforce.com^$important
 @@|www.gog.com^$important

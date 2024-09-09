@@ -111,6 +111,7 @@
 @@|docs.freebsd.org^$important
 @@|docs.rockylinux.org^$important
 @@|download*.vmware.com^$important
+@@|download.copr.fedorainfracloud.org^$important
 @@|download.fedoraproject.org^$important
 @@|download.freebsd.org^$important
 @@|download.kde.org^$important
@@ -131,6 +132,7 @@
 @@|fedora.mirror.digitalpacific.com.au^$important
 @@|fedora.mirror.liteserver.nl^$important
 @@|fedora.mirrorservice.org^$important
+@@|fedoraproject-updates-archive.fedoraproject.org^$important
 @@|fedoraproject.org^$important
 @@|flathub.org^$important
 @@|flatpak.elementary.io^$important
@@ -267,6 +269,7 @@
 @@|opensuse.ipacct.com^$important
 @@|opensuse.mirrors.theom.nz^$important
 @@|osdn.net^$important
+@@|ostree.fedoraproject.org^$important
 @@|packages.linuxmint.com^$important
 @@|packages.zorinos.com^$important
 @@|pacman.archlinux.org^$important

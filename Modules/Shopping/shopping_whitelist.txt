@@ -12,6 +12,7 @@
 @@|cdn.joinhoney.com^$important
 @@|cdnp*.stackassets.com^$important
 @@|cdp.aliexpress.com^$important
+@@|chat.stream-io-api.com^$important
 @@|client.stackcommerce.io^$important
 @@|computers.scorptec.com.au^$important
 @@|coupon.aliexpress.com^$important
@@ -19,9 +20,12 @@
 @@|databridge.tdbtrk.com^$important
 @@|de.aliexpress.com^$important
 @@|deals.ghacks.net^$important
+@@|ebayimg.map.fastly.net^$important
+@@|ebaystatic.ebay.map.fastly.net^$important
 @@|es.aliexpress.com^$important
 @@|feedback.aliexpress.com^$important
 @@|fr.aliexpress.com^$important
+@@|gumtreeau-res.cloudinary.com^$important
 @@|img.alibaba.com^$important
 @@|link.email.stackcommerce.com^$important
 @@|login.aliexpress.com^$important
@@ -39,10 +43,14 @@
 @@|scorptec.resultspage.com^$important
 @@|seal-sanjose.bbb.org^$important
 @@|shops1.stackassets.com^$important
+@@|signin.g.ebay.com^$important
 @@|st.dynamicyield.com^$important
+@@|static.gumtree.com.au.peakhour.zone^$important
 @@|static.queue-it.net^$important
 @@|vi.vipr.ebaydesc.com^$important
+@@|www.amazon.com.au^$important
 @@|www.corsair.com^$important
+@@|www.ebay.com^$important
 @@|www.lightboxcdn.com^$important
 @@|www.scorptec.com.au^$important
 @@|www.smeg.com^$important
