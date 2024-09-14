@@ -170,6 +170,7 @@
 @@|_http._tcp.security.debian.org^$important
 @@|_http._tcp.security.ubuntu.com^$important
 @@|_http._tcp.us.archive.ubuntu.com^$important
+@@|_https._tcp.esm.ubuntu.com^$important
 @@|_https._tcp.metadata.ftp-master.debian.org^$important
 @@|_https._tcp.mirror.aarnet.edu.au^$important
 @@|_https._tcp.mirror.internet.asn.au^$important
@@ -266,12 +267,14 @@
 @@|admin.microsoft.com^$important
 @@|adssettings.google.com^$important
 @@|adult.com^$important
+@@|aea892e467587cd82.awsglobalaccelerator.com^$important
 @@|aex.dev.azure.com^$important
 @@|af.opera.com^$important
 @@|afdxtest.z01.azurefd.net^$important
 @@|affiliate.twitch.tv^$important
 @@|agrd.io^$important
 @@|ahadns.com^$important
+@@|ai-chat.bsg.brave.com^$important
 @@|aid-frontend.prod.atl-paas.net^$important
 @@|air-quality-api.open-meteo.com^$important
 @@|airtable.com^$important
@@ -330,6 +333,7 @@
 @@|anzplus.app.link^$important
 @@|aoe-api.reliclink.com^$important
 @@|aoe.ms^$important
+@@|aoeliverelease1-api.worldsedgelink.com^$important
 @@|aomeitech.com^$important
 @@|ap-southeast-2-storm.ubi.com^$important
 @@|ap.edge.kernel.org^$important
@@ -417,6 +421,7 @@
 @@|api.nfl.com^$important
 @@|api.nordvpn.com^$important
 @@|api.nuget.org^$important
+@@|api.ocbase.com^$important
 @@|api.odysee.com^$important
 @@|api.odysee.live^$important
 @@|api.onedrive.com^$important
@@ -476,6 +481,7 @@
 @@|app.launchdarkly.com^$important
 @@|app.mediafire.com^$important
 @@|app.nexuspublications.com.au^$important
+@@|app.nzbcloud.com^$important
 @@|app.plex.tv^$important
 @@|app.plus.google.com^$important
 @@|app.raindrop.io^$important
@@ -603,6 +609,7 @@
 @@|auspost.com.au^$important
 @@|australiaeast0-mediap.svc.ms^$important
 @@|ausyd1-edge1.cdn.i3d.net^$important
+@@|auth-investorcentre.linkgroup.com^$important
 @@|auth-rgl-prod.ros.rockstargames.com^$important
 @@|auth.api.np.ac.playstation.net^$important
 @@|auth.assist.gameservices.xboxlive.com^$important
@@ -764,6 +771,7 @@
 @@|boot.net.anydesk.com^$important
 @@|boston.maelstrom.gameservices.xboxlive.com^$important
 @@|box.com^$important
+@@|bpu.samsungelectronics.com^$important
 @@|brackets.io^$important
 @@|braintree-api.com^$important
 @@|braintreegateway.com^$important
@@ -844,6 +852,8 @@
 @@|cardinal.maelstrom.gameservices.xboxlive.com^$important
 @@|cards*-prod.svc.gearsofwar.net^$important
 @@|cards2-prod.svc.gearsofwar.net^$important
+@@|cart.ebay.com.au^$important
+@@|cart.payments.ebay.com.au^$important
 @@|cart.production.store-web.dynamics.com^$important
 @@|cast-1.soundcloud.com^$important
 @@|cast.netflix.com^$important
@@ -1013,6 +1023,7 @@
 @@|cfota*.ospserver.net^$important
 @@|cha1.speedtest.telstra.net^$important
 @@|challenges.cdn.ubisoft.com^$important
+@@|challenges.cloudflare.com^$important
 @@|change.org^$important
 @@|changelog.m7g.twitch.tv^$important
 @@|changelogs.ubuntu.com^$important
@@ -1030,6 +1041,7 @@
 @@|chat.xboxlive.com^$important
 @@|chatdepot.twitch.tv^$important
 @@|chatenabled.mail.google.com^$important
+@@|chatgpt.com^$important
 @@|chatlounge-preview.xbox.com^$important
 @@|chatserver13.comm100.io^$important
 @@|chbusiness.samsung.com^$important
@@ -1453,6 +1465,7 @@
 @@|dl.flathub.org^$important
 @@|dl.google.com^$important
 @@|dl.humble.com^$important
+@@|dl.ocbase.com^$important
 @@|dl.opensubtitles.org^$important
 @@|dl.razer.com^$important
 @@|dl.razerzone.com^$important
@@ -1625,6 +1638,7 @@
 @@|e8690.e12.akamaiedge.net^$important
 @@|ea.com^$important
 @@|eaassets-a.akamaihd.net^$important
+@@|eaavatarservice.akamaized.net^$important
 @@|eacommerce.akamaized.net^$important
 @@|eadpgs-blapp002.ea.com^$important
 @@|earth-pa.clients6.google.com^$important
@@ -1737,6 +1751,7 @@
 @@|es.wikipedia.com^$important
 @@|eset.com^$important
 @@|eslint.org^$important
+@@|esm.ubuntu.com^$important
 @@|esupport.gigabyte.com^$important
 @@|eu-central-1-gateway.zionprod.systems^$important
 @@|eu.cdn.blizzard.com^$important
@@ -1871,6 +1886,7 @@
 @@|files*.majorgeeks.com^$important
 @@|files.cdn.ubisoft.com^$important
 @@|files.community^$important
+@@|files.nzbcloud.com^$important
 @@|files.pythonhosted.org^$important
 @@|files.surfright.nl^$important
 @@|fileshare1240.depositfiles.com^$important
@@ -2208,6 +2224,7 @@
 @@|graphql.accounts.firefox.com^$important
 @@|graphql.epicgames.com^$important
 @@|gravatar.com^$important
+@@|grayjay.app^$important
 @@|greasyfork.org^$important
 @@|greasyfork.s3.us-east-2.amazonaws.com^$important
 @@|grid.filefactory.com^$important
@@ -2345,6 +2362,7 @@
 @@|ic-vt-nss.xhcdn.com^$important
 @@|icdn.digitaltrends.com^$important
 @@|icedrive.net^$important
+@@|icon-finder.fly.dev^$important
 @@|icons.bitwarden.net^$important
 @@|icons8.com^$important
 @@|id-cdn.twitch.tv^$important
@@ -2476,6 +2494,8 @@
 @@|internxt.com^$important
 @@|internxt.sjv.io^$important
 @@|invent.kde.org^$important
+@@|investorcentre.linkgroup.com^$important
+@@|investorcentre.linkmarketservices.com.au^$important
 @@|invidious.io^$important
 @@|invidious.namazso.eu^$important
 @@|invidious.rhyshl.live^$important
@@ -2688,6 +2708,7 @@
 @@|live.playstation.com^$important
 @@|live.sysinternals.com^$important
 @@|live.xbox.com^$important
+@@|livepatch.canonical.com^$important
 @@|livetileedge.dsx.mp.microsoft.com^$important
 @@|liveupdate.cyberlink.com^$important
 @@|lobby*-prod.svc.gearsofwar.net^$important
@@ -2707,6 +2728,7 @@
 @@|login.my.gov.au^$important
 @@|login.nvgs.nvidia.com^$important
 @@|login.nvidia.com^$important
+@@|login.okta.com^$important
 @@|login.steampowered.com^$important
 @@|login.sydneywater.com.au^$important
 @@|login.wikimedia.org^$important
@@ -2854,12 +2876,14 @@
 @@|merchantpool1.epicgames.com^$important
 @@|mercury.services.gearboxsoftware.com^$important
 @@|merriam-webster.com^$important
+@@|mesg.ebay.com.au^$important
 @@|messages.google.com^$important
 @@|messdistr1-rdr2-prod.ros.rockstargames.com^$important
 @@|metadata.ftp-master.debian.org^$important
 @@|metal.prod.atl-paas.net^$important
 @@|metrics.ol.epicgames.com^$important
 @@|metrics.ubuntu.com.localdomain^$important
+@@|mfa.linkgroup.com^$important
 @@|microapps.bigcommerce.com^$important
 @@|microsoft.com^$important
 @@|microsoftedge.microsoft.com^$important
@@ -3093,6 +3117,7 @@
 @@|myaccount.google.com^$important
 @@|myactivity.google.com^$important
 @@|myer.com.au^$important
+@@|myid.telstra.com^$important
 @@|myip.wtf^$important
 @@|mysql.com^$important
 @@|n.sni.global.fastly.net^$important
@@ -3156,6 +3181,7 @@
 @@|notes-pa.clients6.google.com^$important
 @@|notice.samsungcloudsolution.com^$important
 @@|notice.xbox.com^$important
+@@|noticecdn.samsungcloudsolution.com^$important
 @@|notification-prod.svc.gearsofwar.net^$important
 @@|notification.svc.halowaypoint.com^$important
 @@|notificationinbox.xboxlive.com^$important
@@ -3173,6 +3199,7 @@
 @@|nsfw.reddit.com^$important
 @@|nsw-brwy-speedtest.aarnet.net.au.prod.hosts.ooklaserver.net^$important
 @@|nsw-brwy-speedtest.aarnet.net.au^$important
+@@|nsw-brwy-st1.speedtest.aarnet.net.au^$important
 @@|nsw.gov.au^$important
 @@|nsw.speedtest.exetel.com.au^$important
 @@|nswdac-covid-19-postcode-heatmap.azurewebsites.net^$important
@@ -3191,6 +3218,7 @@
 @@|nyc.mirrors.clouvider.net^$important
 @@|nz.static.mega.co.nz^$important
 @@|nzb360.com^$important
+@@|nzbcloud.com^$important
 @@|nzbfinder.ws^$important
 @@|nzbstars.com^$important
 @@|nzxt.com^$important
@@ -3244,6 +3272,7 @@
 @@|ogs.google.com^$important
 @@|ohioix.mm.fcix.net^$important
 @@|ohmyposh.dev^$important
+@@|ok14static.oktacdn.com^$important
 @@|old-releases.ubuntu.com^$important
 @@|omniverse-content-production.s3-us-west-2.amazonaws.com^$important
 @@|onboardcloud.dl.sourceforge.net^$important
@@ -3278,6 +3307,7 @@
 @@|open.stealth.si^$important
 @@|open.tracker.cl^$important
 @@|open.tracker.ink^$important
+@@|openai.com^$important
 @@|opencritic.com^$important
 @@|opengraph.githubassets.com^$important
 @@|openphish.com^$important
@@ -3317,6 +3347,7 @@
 @@|osb-ussvc.samsungqbe.com^$important
 @@|osb-v1-alb.samsungqbe.com^$important
 @@|osb-v1-ussvc.samsungqbe.com^$important
+@@|osb-v1.samsungqbe.com^$important
 @@|osdn.net^$important
 @@|osiprodwusodcspstoa01.blob.core.windows.net^$important
 @@|ossmirror.mycloud.services^$important
@@ -3362,6 +3393,7 @@
 @@|packs.svc.halowaypoint.com^$important
 @@|pacman.archlinux.org^$important
 @@|paducahix.mm.fcix.net^$important
+@@|pages.ebay.com.au^$important
 @@|pages.ebay.com^$important
 @@|pages.engage.xbox.com^$important
 @@|pages.github.com^$important
@@ -3382,6 +3414,8 @@
 @@|password.kaspersky.com^$important
 @@|passwords.google.com^$important
 @@|pastebin.com^$important
+@@|pay.ebay.com.au^$important
+@@|pay.ebay.com^$important
 @@|pay.google.com^$important
 @@|payment-api.production.rokfin.com^$important
 @@|payment-website-pci.ol.epicgames.com^$important
@@ -3739,6 +3773,7 @@
 @@|retracker.local^$important
 @@|retracker2.x2k.ru^$important
 @@|returnandearn.org.au^$important
+@@|returnyoutubedislikeapi.com^$important
 @@|reviews.gog.com^$important
 @@|reviews.kaspersky.com^$important
 @@|rewards*-prod.svc.gearsofwar.net^$important
@@ -3794,6 +3829,7 @@
 @@|s295.pornone.com^$important
 @@|s3-ap-southeast-2.amazonaws.com^$important
 @@|s3-eu-west-1.amazonaws.com^$important
+@@|s3.nzbcloud.com^$important
 @@|s3.us-west-002.backblazeb2.com^$important
 @@|s3.wasabisys.com^$important
 @@|s334284386.t.eloqua.com^$important
@@ -3963,6 +3999,7 @@
 @@|socialclub.rockstargames.com^$important
 @@|sockets.betterttv.net^$important
 @@|sockets.standardnotes.com^$important
+@@|sofe.ebay.com.au^$important
 @@|sofia.cdntrex.com^$important
 @@|software-download.microsoft.com^$important
 @@|software-static.download.prss.microsoft.com^$important
@@ -4001,6 +4038,7 @@
 @@|spartaprofile2-prod.svc.gearsofwar.net^$important
 @@|spclient.wg.spotify.com^$important
 @@|spd03-syd.au.superloop.com.prod.hosts.ooklaserver.net^$important
+@@|spd03-syd.au.superloop.com^$important
 @@|speckyboy.com^$important
 @@|speech.platform.bing.com^$important
 @@|speed.cloudflare.com^$important
@@ -4088,6 +4126,7 @@
 @@|standardnotes.com^$important
 @@|standardnotes.org^$important
 @@|standby.comm100vue.com^$important
+@@|star-randsrv.bsg.brave.com^$important
 @@|starcraft2.com^$important
 @@|start.ubuntu.com^$important
 @@|stat.dns.sb^$important
@@ -4445,6 +4484,7 @@
 @@|tokens-auth.touchtype-fluency.com^$important
 @@|tokensit.cp.microsoft-tst.com/^$important
 @@|tool-avpg.crsi.norton.com^$important
+@@|torbox.app^$important
 @@|torlock.com^$important
 @@|torren.eu^$important
 @@|torrent-tracker.hama3.net^$important
@@ -4772,6 +4812,7 @@
 @@|video-fa.scdn.co^$important
 @@|video-gcr.xhcdn.com^$important
 @@|video-nss.xhcdn.com^$important
+@@|video-weaver.lax03.hls.ttvnw.net^$important
 @@|video-weaver.syd*.hls.ttvnw.net^$important
 @@|video.akamai.steamstatic.com^$important
 @@|video.api.playstation.com^$important
@@ -4945,6 +4986,7 @@
 @@|www.anz.com.au^$important
 @@|www.anz.com^$important
 @@|www.apkmirror.com^$important
+@@|www.aramex.com.au^$important
 @@|www.asus.com^$important
 @@|www.ato.gov.au^$important
 @@|www.autohotkey.com^$important
@@ -5084,6 +5126,7 @@
 @@|www.images-home.com^$important
 @@|www.industry.gov.au^$important
 @@|www.ing.com.au^$important
+@@|www.innoreader.com^$important
 @@|www.inoreader.com^$important
 @@|www.intel.com.au^$important
 @@|www.intel.com^$important
@@ -5109,6 +5152,7 @@
 @@|www.lifewire.com^$important
 @@|www.lightboxcdn.com^$important
 @@|www.limetorrents.lol^$important
+@@|www.linkmarketservices.com.au^$important
 @@|www.linux.org^$important
 @@|www.linuxcompatible.org^$important
 @@|www.linuxmint.com^$important
@@ -5157,6 +5201,8 @@
 @@|www.nvidia.com^$important
 @@|www.nvidia.eu^$important
 @@|www.nzb360.com^$important
+@@|www.nzbcloud.com^$important
+@@|www.ocbase.com^$important
 @@|www.office.com^$important
 @@|www.officeworks.com.au^$important
 @@|www.omgubuntu.co.uk^$important
@@ -5236,6 +5282,7 @@
 @@|www.snappy-driver-installer.org^$important
 @@|www.sourceforge.net^$important
 @@|www.speedguide.net^$important
+@@|www.speedtest.net.cdn.cloudflare.net^$important
 @@|www.speedtest.net^$important
 @@|www.spintel.net.au^$important
 @@|www.spotify.com^$important
@@ -5258,12 +5305,14 @@
 @@|www.techradar.com^$important
 @@|www.techsupportforum.com^$important
 @@|www.tecmint.com^$important
+@@|www.telstra.com.au^$important
 @@|www.tenforums.com^$important
 @@|www.thegoodguys.com.au^$important
 @@|www.thewindowsclub.com^$important
 @@|www.thewitcher.com^$important
 @@|www.tm.a.prd.aadg.akadns.net^$important
 @@|www.tomsguide.com^$important
+@@|www.torbox.app^$important
 @@|www.toshiba-storage.com^$important
 @@|www.toshiba.com^$important
 @@|www.tp-link.com^$important
