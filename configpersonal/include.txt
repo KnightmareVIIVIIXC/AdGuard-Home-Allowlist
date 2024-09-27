@@ -4,6 +4,7 @@
 ||appsflyersdk.com^
 ||bere.al^
 ||bereal.com^
+||bing.com^
 ||clevertap-prod.com^
 ||coral.ai^
 ||cws-hotstar.conviva.com^
@@ -17,6 +18,7 @@
 ||kith.com^
 ||lostallhope.com^
 ||mercury.akamaized.net^
+||msn.com^
 ||nest.com^
 ||page.link^
 ||raxco.com^
