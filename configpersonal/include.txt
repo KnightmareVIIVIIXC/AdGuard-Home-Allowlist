@@ -26,6 +26,7 @@
 ||sanctioned-suicide.net^
 ||sensic.net^
 ||spotify.com^
+||stratiqo.com^
 ||sunwatermovementfoodandsleep.com^
 ||textsecure-service.whispersystems.org^
 ||tiltbrush.com^
