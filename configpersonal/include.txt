@@ -21,6 +21,7 @@
 ||msn.com^
 ||nest.com^
 ||page.link^
+||pages.dev^
 ||raxco.com^
 ||rayjump.com^
 ||sanctioned-suicide.net^
