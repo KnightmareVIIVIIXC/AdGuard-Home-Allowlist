@@ -2,6 +2,7 @@
 @@|*.azureedge.us^$important
 @@|ac.cnstrc.com^$important
 @@|account.service.nsw.gov.au^$important
+@@|acdd5d9c18c314873.awsglobalaccelerator.com^$important
 @@|acs.woolworths.com.au^$important
 @@|aea892e467587cd82.awsglobalaccelerator.com^$important
 @@|aldi.com.au^$important
@@ -15,6 +16,7 @@
 @@|api.my.gov.au^$important
 @@|api.nab.com.au^$important
 @@|api.nextthere.com^$important
+@@|api.onegov.nsw.gov.au^$important
 @@|api.prod.bunnings.com.au^$important
 @@|api.target.com.au^$important
 @@|api2.ingdirect.com.au^$important
@@ -45,6 +47,7 @@
 @@|cdn.canstarblue.com.au^$important
 @@|cdn.gpsoft.com.au^$important
 @@|cdn.mwave.com.au^$important
+@@|cdn.onegov.nsw.gov.au^$important
 @@|cdn.optimizely.com^$important
 @@|cdn0.woolworths.media^$important
 @@|centrecomstatic.s3.amazonaws.com^$important
@@ -78,6 +81,7 @@
 @@|fonts.service.nsw.gov.au^$important
 @@|foodhub.scene7.com^$important
 @@|foodhub.woolworths.com.au^$important
+@@|fuelcheck.nsw.gov.au^$important
 @@|go.scorptec.com.au^$important
 @@|google.com.au^$important
 @@|gumtree.com.au^$important
@@ -184,7 +188,9 @@
 @@|vfr3.gpsoft.com.au^$important
 @@|vfr4.gpsoft.com.au^$important
 @@|wcsprdstg.cmltd.net.au^$important
+@@|web-cms.superloop.com^$important
 @@|webident.service.nsw.gov.au^$important
+@@|webservices-api.superloop.com^$important
 @@|webservices.api.exetel.com.au^$important
 @@|webservices.myexetel.exetel.com.au^$important
 @@|woolworths.com.au^$important
