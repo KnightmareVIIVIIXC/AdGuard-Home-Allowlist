@@ -24,6 +24,7 @@
 ||pages.dev^
 ||raxco.com^
 ||rayjump.com^
+||s.youtube.com^
 ||sanctioned-suicide.net^
 ||sensic.net^
 ||skype.com^
